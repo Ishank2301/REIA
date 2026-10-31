@@ -1,0 +1,1001 @@
+Property_ID,City,Locality,City_Tier,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Floor_No,Total_Floors,Property_Age,Possession_Status,Infrastructure_Score,Transport_Score,School_Density_Score,Gym,Swimming_Pool,Clubhouse,Security_24x7,Power_Backup,Covered_Parking,Children_Play_Area,Garden
+PROP_00001,Mumbai,Andheri West,Tier 1,Penthouse,1,1576,268.92,10,11,17,Ready to Move,8,7,4,0,0,1,0,1,1,1,0
+PROP_00002,Pune,Wakad,Tier 1,Apartment,4,476,41.18,5,13,4,Ready to Move,6,4,4,1,0,0,1,0,1,0,1
+PROP_00003,Mumbai,Powai,Tier 1,Apartment,3,1650,350.98,22,26,1,Ready to Move,6,4,5,1,0,1,1,1,1,1,1
+PROP_00004,Mumbai,Powai,Tier 1,Apartment,3,3050,504.23,12,18,20,Ready to Move,9,6,4,0,0,0,1,1,1,1,0
+PROP_00005,Indore,Super Corridor,Tier 2,Villa,3,3083,133.83,17,19,8,Resale,8,7,6,0,1,1,0,0,0,1,1
+PROP_00006,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,710,29.94,0,32,3,Under Construction,9,6,4,0,0,0,1,1,1,1,1
+PROP_00007,Mumbai,Andheri West,Tier 1,Apartment,4,3011,525.38,9,35,5,Ready to Move,8,6,7,0,1,1,1,1,0,1,1
+PROP_00008,Mumbai,Powai,Tier 1,Villa,3,2440,516.68,7,11,5,Under Construction,8,8,7,1,1,1,1,1,1,1,1
+PROP_00009,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,1465,57.83,17,24,18,Ready to Move,4,4,9,1,0,1,1,0,1,1,0
+PROP_00010,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2788,225.93,13,18,3,Ready to Move,9,7,6,1,1,1,1,1,0,1,0
+PROP_00011,Mumbai,Andheri West,Tier 1,Apartment,2,1234,205.7,11,31,14,Ready to Move,4,7,8,0,1,1,0,0,1,0,1
+PROP_00012,Indore,Super Corridor,Tier 2,Apartment,2,2092,106.4,6,13,14,Under Construction,7,9,9,1,1,1,1,1,1,1,1
+PROP_00013,Kolkata,New Town,Tier 1,Apartment,1,655,53.24,33,35,1,Ready to Move,5,4,8,0,1,1,1,1,1,0,0
+PROP_00014,Kolkata,New Town,Tier 1,Apartment,2,1286,107.82,12,23,21,Under Construction,7,6,4,0,1,1,0,1,1,0,0
+PROP_00015,Mumbai,Powai,Tier 1,Villa,2,1963,340.62,19,31,20,Ready to Move,9,8,6,1,0,1,1,1,1,0,0
+PROP_00016,Hyderabad,Gachibowli,Tier 1,Apartment,3,1854,129.52,8,19,2,Resale,6,4,4,1,0,1,1,1,1,1,0
+PROP_00017,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,597,53.01,0,12,11,Ready to Move,6,5,9,0,0,1,1,1,1,0,1
+PROP_00018,Hyderabad,Hitec City,Tier 1,Independent House,4,1175,105.98,2,4,21,Ready to Move,6,5,9,0,1,1,1,1,1,1,1
+PROP_00019,Pune,Hinjewadi,Tier 1,Apartment,2,546,45.62,27,28,8,Under Construction,9,8,7,1,1,0,0,1,1,1,1
+PROP_00020,Bengaluru,HSR Layout,Tier 1,Apartment,1,2893,222.14,16,23,12,Ready to Move,6,4,9,1,1,1,1,1,1,0,1
+PROP_00021,Kolkata,New Town,Tier 1,Villa,3,1735,145.14,4,10,9,Resale,6,7,9,0,0,1,1,1,1,1,0
+PROP_00022,Bengaluru,Whitefield,Tier 1,Penthouse,2,1625,113.84,14,23,6,Resale,9,5,9,0,1,1,1,1,1,1,0
+PROP_00023,Hyderabad,Gachibowli,Tier 1,Independent House,2,550,35.83,4,33,13,Ready to Move,9,9,7,1,0,1,0,1,1,0,1
+PROP_00024,Hyderabad,Hitec City,Tier 1,Independent House,4,2571,199.73,3,18,4,Resale,9,8,8,1,1,1,1,1,1,1,1
+PROP_00025,Hyderabad,Hitec City,Tier 1,Villa,3,2394,184.94,8,18,15,Ready to Move,6,7,4,1,0,0,1,0,0,1,0
+PROP_00026,Hyderabad,Gachibowli,Tier 1,Independent House,1,2149,163.28,13,32,12,Ready to Move,8,7,7,0,0,1,1,1,1,1,1
+PROP_00027,Pune,Hinjewadi,Tier 1,Penthouse,3,1348,96.97,21,34,21,Resale,9,5,7,1,1,1,1,1,1,0,1
+PROP_00028,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,655,26.25,10,23,12,Under Construction,7,6,4,1,1,0,1,1,0,1,0
+PROP_00029,Bengaluru,Whitefield,Tier 1,Penthouse,2,1266,112.58,7,12,3,Ready to Move,7,9,6,1,0,1,1,0,1,1,0
+PROP_00030,Bengaluru,Whitefield,Tier 1,Apartment,2,2808,236.07,22,27,2,Ready to Move,4,9,6,1,1,0,1,1,1,1,1
+PROP_00031,Kolkata,New Town,Tier 1,Penthouse,1,2170,191.87,5,9,14,Ready to Move,7,5,9,1,1,1,1,1,1,1,1
+PROP_00032,Kolkata,New Town,Tier 1,Apartment,4,1455,129.02,7,8,14,Resale,6,4,7,1,0,0,1,1,1,1,0
+PROP_00033,Bengaluru,Whitefield,Tier 1,Apartment,3,1232,81.7,24,29,22,Resale,9,9,7,1,0,0,1,1,1,1,1
+PROP_00034,Ahmedabad,SG Highway,Tier 1,Apartment,3,2704,199.21,16,32,3,Ready to Move,6,4,9,1,1,0,1,1,1,1,1
+PROP_00035,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,1,1245,90.43,0,26,17,Ready to Move,6,4,4,1,1,0,1,1,1,1,1
+PROP_00036,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,1205,62.56,15,19,2,Resale,7,4,8,1,0,0,1,1,1,0,1
+PROP_00037,Pune,Hinjewadi,Tier 1,Apartment,4,2590,194.67,27,31,18,Ready to Move,8,9,4,1,0,0,1,1,0,0,0
+PROP_00038,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,2882,125.64,5,5,22,Resale,4,9,5,1,1,1,1,1,1,1,1
+PROP_00039,Pune,Wakad,Tier 1,Penthouse,4,1032,68.0,9,13,18,Under Construction,7,4,7,1,1,1,1,1,0,0,1
+PROP_00040,Kolkata,New Town,Tier 1,Penthouse,3,1475,95.18,0,17,8,Ready to Move,5,7,8,1,1,0,1,1,1,0,0
+PROP_00041,Kolkata,New Town,Tier 1,Independent House,2,3194,213.64,11,13,9,Resale,8,4,7,0,0,0,1,1,1,0,1
+PROP_00042,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,672,26.11,15,26,14,Ready to Move,5,6,8,0,0,1,1,0,1,1,1
+PROP_00043,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,506,40.64,1,8,3,Ready to Move,7,9,6,1,0,1,1,1,1,1,1
+PROP_00044,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,4,735,52.95,25,29,8,Ready to Move,6,9,6,1,1,1,1,1,1,1,1
+PROP_00045,Jaipur,Vaishali Nagar,Tier 2,Independent House,3,1768,88.95,7,18,1,Under Construction,9,7,9,1,0,1,1,1,0,1,0
+PROP_00046,Kolkata,New Town,Tier 1,Apartment,4,861,77.47,29,31,4,Resale,9,5,4,1,1,0,1,1,1,1,1
+PROP_00047,Jaipur,Vaishali Nagar,Tier 2,Villa,2,3017,144.14,2,34,2,Ready to Move,9,9,6,1,1,1,0,1,1,1,1
+PROP_00048,Bengaluru,Whitefield,Tier 1,Apartment,1,1778,155.81,13,21,7,Resale,8,9,5,0,0,1,1,1,1,0,1
+PROP_00049,Pune,Wakad,Tier 1,Apartment,3,1495,125.21,10,32,14,Under Construction,8,6,9,1,1,1,1,1,1,0,1
+PROP_00050,Ahmedabad,SG Highway,Tier 1,Independent House,3,1661,155.35,21,21,8,Ready to Move,8,9,9,1,1,1,1,1,1,0,1
+PROP_00051,Pune,Hinjewadi,Tier 1,Penthouse,3,1228,101.16,10,11,1,Under Construction,7,4,8,1,0,1,1,1,1,1,1
+PROP_00052,Ahmedabad,SG Highway,Tier 1,Independent House,3,2505,228.34,13,13,9,Under Construction,4,7,4,0,1,1,1,1,1,1,1
+PROP_00053,Jaipur,Vaishali Nagar,Tier 2,Villa,1,1533,68.55,16,32,12,Under Construction,4,9,5,1,1,1,1,1,1,1,1
+PROP_00054,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,2122,142.71,2,5,3,Ready to Move,5,8,5,1,0,1,1,1,1,1,1
+PROP_00055,Mumbai,Andheri West,Tier 1,Apartment,4,2454,484.24,11,20,14,Resale,5,6,4,1,0,1,1,0,1,1,1
+PROP_00056,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,3164,124.23,2,4,4,Ready to Move,4,8,5,1,1,0,1,1,1,0,1
+PROP_00057,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1476,129.45,0,10,0,Under Construction,5,8,6,0,0,0,1,0,0,1,1
+PROP_00058,Mumbai,Andheri West,Tier 1,Villa,3,2513,424.58,5,5,9,Resale,9,4,4,1,1,1,1,1,1,1,0
+PROP_00059,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,1,966,69.55,19,23,9,Resale,8,8,7,0,1,1,1,1,1,0,1
+PROP_00060,Pune,Hinjewadi,Tier 1,Apartment,3,1838,162.8,3,28,13,Under Construction,9,6,6,1,1,1,0,0,1,1,1
+PROP_00061,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,695,56.53,13,24,21,Resale,9,4,6,1,0,1,1,1,1,0,1
+PROP_00062,Ahmedabad,SG Highway,Tier 1,Villa,1,1591,128.83,24,30,19,Ready to Move,8,9,9,0,0,1,1,1,0,1,1
+PROP_00063,Jaipur,Vaishali Nagar,Tier 2,Apartment,1,1031,49.64,4,4,12,Resale,7,6,5,1,1,1,1,0,0,0,1
+PROP_00064,Mumbai,Powai,Tier 1,Apartment,2,2264,454.29,26,34,6,Ready to Move,6,7,4,0,1,1,1,0,1,1,0
+PROP_00065,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,2,1012,87.71,0,21,13,Ready to Move,5,7,8,1,1,1,1,0,1,0,0
+PROP_00066,Mumbai,Powai,Tier 1,Apartment,4,1732,336.8,13,28,3,Resale,4,6,5,1,1,1,1,0,1,0,1
+PROP_00067,Mumbai,Powai,Tier 1,Apartment,3,1720,355.52,5,17,16,Ready to Move,8,8,5,1,0,1,1,1,1,0,0
+PROP_00068,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,4,3134,206.88,28,34,18,Under Construction,9,6,5,1,1,1,1,1,1,0,1
+PROP_00069,Bengaluru,HSR Layout,Tier 1,Villa,1,1960,173.85,1,7,19,Resale,7,8,8,1,1,0,1,1,0,1,1
+PROP_00070,Bengaluru,HSR Layout,Tier 1,Villa,3,873,76.89,2,24,20,Ready to Move,4,5,9,1,1,1,1,1,1,1,0
+PROP_00071,Bengaluru,HSR Layout,Tier 1,Apartment,4,3034,252.34,6,7,8,Ready to Move,6,4,8,1,1,0,1,1,0,1,0
+PROP_00072,Jaipur,Vaishali Nagar,Tier 2,Villa,3,1795,88.6,6,8,11,Ready to Move,6,6,5,1,0,1,1,1,0,0,1
+PROP_00073,Bengaluru,HSR Layout,Tier 1,Apartment,3,1829,164.69,2,11,5,Ready to Move,9,7,4,1,1,0,1,1,1,1,1
+PROP_00074,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,4,2371,215.45,14,15,9,Resale,8,8,7,1,1,1,1,1,1,1,1
+PROP_00075,Mumbai,Andheri West,Tier 1,Apartment,3,2563,549.21,5,21,14,Ready to Move,7,4,5,1,1,1,1,1,1,1,0
+PROP_00076,Pune,Hinjewadi,Tier 1,Apartment,1,1755,160.89,4,24,9,Resale,9,5,9,1,1,1,0,1,0,1,1
+PROP_00077,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,1,1630,64.7,6,10,19,Resale,4,4,7,1,0,1,1,0,1,1,0
+PROP_00078,Kochi,Kakkanad (Infopark),Tier 2,Villa,2,3171,148.8,16,26,16,Ready to Move,7,7,4,1,1,0,0,1,1,1,1
+PROP_00079,Kolkata,New Town,Tier 1,Penthouse,2,631,46.9,5,24,14,Resale,9,5,5,0,1,1,1,0,0,0,1
+PROP_00080,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2674,116.73,1,5,11,Ready to Move,9,6,6,0,0,1,1,1,1,1,1
+PROP_00081,Indore,Super Corridor,Tier 2,Independent House,2,2576,103.51,1,8,19,Ready to Move,8,6,6,0,0,0,1,1,0,1,1
+PROP_00082,Ahmedabad,SG Highway,Tier 1,Apartment,3,2231,160.6,6,6,16,Ready to Move,4,5,8,1,1,0,1,1,1,1,0
+PROP_00083,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,3,2292,211.36,2,26,4,Under Construction,7,6,9,0,1,0,1,1,1,0,1
+PROP_00084,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,2956,119.71,8,34,14,Ready to Move,9,7,4,1,1,1,1,1,1,0,0
+PROP_00085,Hyderabad,Hitec City,Tier 1,Apartment,3,3062,211.19,3,26,4,Ready to Move,7,4,6,1,0,1,1,1,0,1,1
+PROP_00086,Indore,Super Corridor,Tier 2,Penthouse,3,2132,103.66,5,7,2,Resale,7,9,8,1,1,1,1,1,1,1,1
+PROP_00087,Bengaluru,HSR Layout,Tier 1,Penthouse,4,958,75.96,10,22,7,Under Construction,8,6,4,0,1,1,1,1,1,1,0
+PROP_00088,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,3148,259.66,18,24,0,Ready to Move,4,9,8,0,0,1,1,0,1,1,1
+PROP_00089,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,3,1453,127.71,2,28,1,Ready to Move,7,7,7,1,0,0,1,1,1,1,1
+PROP_00090,Ahmedabad,SG Highway,Tier 1,Independent House,3,2750,184.07,8,18,7,Ready to Move,4,4,6,1,1,1,1,1,1,1,1
+PROP_00091,Hyderabad,Gachibowli,Tier 1,Independent House,4,1102,86.73,19,35,0,Ready to Move,7,8,7,1,0,1,0,1,1,1,1
+PROP_00092,Bengaluru,Whitefield,Tier 1,Apartment,4,890,68.24,12,19,1,Resale,4,8,8,0,1,0,1,1,1,1,1
+PROP_00093,Mumbai,Andheri West,Tier 1,Apartment,2,846,153.43,11,24,6,Resale,8,4,4,0,1,1,1,0,1,0,1
+PROP_00094,Kolkata,New Town,Tier 1,Villa,2,2059,192.45,16,22,17,Resale,9,8,6,1,0,0,1,1,1,1,1
+PROP_00095,Bengaluru,Whitefield,Tier 1,Apartment,3,2393,171.62,15,17,16,Resale,5,9,5,0,1,0,0,1,0,1,1
+PROP_00096,Indore,Super Corridor,Tier 2,Villa,4,705,33.53,15,16,12,Under Construction,5,7,8,1,0,1,1,1,1,1,0
+PROP_00097,Pune,Hinjewadi,Tier 1,Apartment,2,2735,198.85,22,22,22,Resale,6,7,6,1,1,1,1,1,1,1,1
+PROP_00098,Ahmedabad,SG Highway,Tier 1,Apartment,4,1049,76.01,2,21,14,Under Construction,9,7,5,0,1,1,1,0,1,1,0
+PROP_00099,Pune,Hinjewadi,Tier 1,Apartment,3,1403,91.65,15,29,21,Ready to Move,4,8,5,1,1,1,1,1,1,1,1
+PROP_00100,Mumbai,Powai,Tier 1,Independent House,3,2801,475.39,1,5,5,Ready to Move,7,7,5,1,1,1,1,0,1,0,1
+PROP_00101,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,3,3076,246.23,8,34,14,Under Construction,5,4,6,0,1,0,1,1,1,1,1
+PROP_00102,Hyderabad,Hitec City,Tier 1,Independent House,3,3066,277.97,2,30,21,Ready to Move,5,5,7,1,0,0,1,1,1,1,1
+PROP_00103,Bengaluru,Whitefield,Tier 1,Independent House,2,3127,233.08,3,18,9,Ready to Move,7,9,8,1,1,1,1,1,1,1,0
+PROP_00104,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,3,1077,83.36,17,26,17,Ready to Move,5,9,8,1,0,1,1,0,1,0,1
+PROP_00105,Hyderabad,Gachibowli,Tier 1,Apartment,3,2648,180.71,14,23,21,Ready to Move,9,8,7,0,1,1,1,1,1,0,1
+PROP_00106,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,539,40.76,0,3,13,Under Construction,9,4,8,1,1,0,1,0,1,1,1
+PROP_00107,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,2,2016,87.16,21,27,17,Ready to Move,9,6,4,0,1,1,1,1,0,0,0
+PROP_00108,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2003,99.21,4,18,6,Ready to Move,4,9,7,1,1,1,1,0,1,1,1
+PROP_00109,Bengaluru,HSR Layout,Tier 1,Apartment,2,631,47.84,1,17,16,Under Construction,5,9,8,1,1,1,1,1,0,1,0
+PROP_00110,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,2,699,56.24,6,14,15,Ready to Move,6,9,9,1,1,1,1,1,0,1,0
+PROP_00111,Pune,Hinjewadi,Tier 1,Villa,2,1041,91.53,3,6,16,Ready to Move,7,5,6,0,1,1,1,0,1,0,0
+PROP_00112,Bengaluru,HSR Layout,Tier 1,Apartment,4,748,51.91,10,16,0,Ready to Move,5,9,4,1,1,1,1,1,1,0,0
+PROP_00113,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,3,2359,188.15,11,25,15,Resale,4,9,7,1,0,0,1,0,1,1,0
+PROP_00114,Kochi,Kakkanad (Infopark),Tier 2,Independent House,2,1074,41.88,7,17,17,Under Construction,6,7,9,1,1,0,1,1,1,1,1
+PROP_00115,Bengaluru,HSR Layout,Tier 1,Apartment,3,588,52.29,0,7,13,Ready to Move,9,5,4,1,0,1,1,1,1,1,1
+PROP_00116,Indore,Super Corridor,Tier 2,Villa,1,477,21.29,17,29,9,Ready to Move,8,9,9,1,1,0,1,1,1,1,0
+PROP_00117,Ahmedabad,SG Highway,Tier 1,Penthouse,2,2075,137.2,7,28,7,Under Construction,9,4,9,1,1,0,1,1,1,1,1
+PROP_00118,Mumbai,Powai,Tier 1,Villa,3,2227,444.14,3,24,1,Ready to Move,5,9,8,1,0,0,1,1,1,0,1
+PROP_00119,Kolkata,New Town,Tier 1,Apartment,1,1298,105.61,9,28,18,Ready to Move,8,7,9,1,0,1,1,1,1,1,1
+PROP_00120,Bengaluru,HSR Layout,Tier 1,Apartment,1,2240,158.4,6,7,0,Under Construction,7,7,5,1,1,1,1,1,0,1,1
+PROP_00121,Mumbai,Powai,Tier 1,Apartment,1,1547,253.87,5,12,3,Ready to Move,4,6,7,1,0,0,1,1,1,1,0
+PROP_00122,Ahmedabad,SG Highway,Tier 1,Apartment,3,831,67.86,0,23,13,Resale,4,9,8,1,1,1,1,1,0,1,1
+PROP_00123,Mumbai,Powai,Tier 1,Apartment,2,2230,385.5,2,22,8,Ready to Move,9,9,7,1,0,0,1,1,1,1,1
+PROP_00124,Kolkata,New Town,Tier 1,Penthouse,3,1821,139.61,9,11,6,Resale,6,5,7,1,0,1,1,1,1,1,1
+PROP_00125,Jaipur,Vaishali Nagar,Tier 2,Penthouse,2,916,47.04,5,15,17,Ready to Move,9,7,9,0,1,1,0,1,1,1,0
+PROP_00126,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,2,1484,123.93,2,30,19,Resale,8,7,8,1,1,1,1,1,1,1,1
+PROP_00127,Mumbai,Powai,Tier 1,Apartment,1,1466,293.71,19,25,18,Resale,6,7,4,0,0,1,1,1,1,1,1
+PROP_00128,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,550,43.03,2,21,4,Under Construction,6,6,7,1,1,0,0,1,1,0,0
+PROP_00129,Mumbai,Andheri West,Tier 1,Apartment,1,1855,370.36,11,13,16,Ready to Move,8,5,6,1,1,0,1,1,1,1,0
+PROP_00130,Hyderabad,Gachibowli,Tier 1,Apartment,3,2875,220.33,1,3,22,Ready to Move,8,4,8,0,0,1,1,1,1,1,1
+PROP_00131,Jaipur,Vaishali Nagar,Tier 2,Villa,3,917,38.1,19,32,18,Ready to Move,9,5,6,0,0,0,1,1,1,0,1
+PROP_00132,Hyderabad,Hitec City,Tier 1,Apartment,3,3053,243.85,7,14,4,Ready to Move,6,7,8,0,0,0,1,1,1,1,1
+PROP_00133,Indore,Super Corridor,Tier 2,Apartment,3,2268,99.59,3,8,1,Under Construction,5,8,6,0,1,1,1,1,0,0,1
+PROP_00134,Ahmedabad,SG Highway,Tier 1,Apartment,3,620,53.66,27,31,20,Ready to Move,6,4,7,0,1,0,1,0,1,0,1
+PROP_00135,Ahmedabad,SG Highway,Tier 1,Apartment,4,2949,243.98,12,13,6,Ready to Move,8,6,8,0,1,0,1,1,1,1,1
+PROP_00136,Mumbai,Andheri West,Tier 1,Penthouse,2,2135,467.89,4,20,4,Ready to Move,5,9,6,1,1,1,1,1,1,1,1
+PROP_00137,Mumbai,Powai,Tier 1,Apartment,3,2561,530.09,15,26,18,Ready to Move,9,4,9,1,1,1,1,1,1,1,1
+PROP_00138,Indore,Super Corridor,Tier 2,Villa,2,1772,87.92,4,24,15,Under Construction,9,4,4,0,1,1,1,1,1,0,1
+PROP_00139,Hyderabad,Gachibowli,Tier 1,Apartment,3,990,89.31,8,22,20,Under Construction,6,4,6,1,1,0,1,1,1,1,0
+PROP_00140,Mumbai,Andheri West,Tier 1,Penthouse,1,1324,248.03,8,11,14,Ready to Move,4,9,6,1,1,1,1,0,1,1,0
+PROP_00141,Kolkata,New Town,Tier 1,Apartment,2,1675,113.67,10,11,2,Ready to Move,8,9,5,1,1,1,1,1,1,1,0
+PROP_00142,Mumbai,Andheri West,Tier 1,Apartment,2,954,186.46,13,27,4,Ready to Move,6,9,4,0,1,1,1,1,0,1,1
+PROP_00143,Hyderabad,Gachibowli,Tier 1,Apartment,3,2935,231.97,1,28,15,Resale,4,5,7,1,0,1,0,1,1,1,1
+PROP_00144,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,2687,126.75,4,33,18,Ready to Move,4,6,5,0,0,1,1,1,1,1,1
+PROP_00145,Mumbai,Powai,Tier 1,Apartment,3,2647,507.46,4,12,16,Ready to Move,5,8,6,1,1,1,1,0,1,1,1
+PROP_00146,Bengaluru,HSR Layout,Tier 1,Apartment,2,803,73.47,9,10,9,Ready to Move,4,4,9,0,0,1,1,1,1,0,1
+PROP_00147,Pune,Wakad,Tier 1,Apartment,3,933,81.07,3,4,16,Ready to Move,6,9,8,1,1,1,0,1,0,0,1
+PROP_00148,Mumbai,Andheri West,Tier 1,Apartment,2,2534,388.17,3,3,12,Ready to Move,5,4,8,1,1,1,1,1,1,1,1
+PROP_00149,Ahmedabad,SG Highway,Tier 1,Apartment,1,2506,210.38,8,6,12,Ready to Move,7,6,6,1,1,0,1,1,1,1,1
+PROP_00150,Indore,Super Corridor,Tier 2,Apartment,4,1250,60.01,13,18,7,Under Construction,9,9,4,1,0,1,1,1,0,1,0
+PROP_00151,Indore,Super Corridor,Tier 2,Villa,1,1033,49.23,3,8,13,Under Construction,7,9,4,1,1,1,1,1,0,1,0
+PROP_00152,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,1740,159.26,23,28,10,Resale,6,5,4,1,0,1,1,0,1,1,0
+PROP_00153,Ahmedabad,SG Highway,Tier 1,Apartment,4,1300,100.5,7,32,5,Under Construction,9,9,8,0,1,0,0,1,1,1,1
+PROP_00154,Pune,Wakad,Tier 1,Penthouse,4,1162,75.16,17,28,17,Ready to Move,4,7,4,1,0,0,1,1,0,1,1
+PROP_00155,Mumbai,Powai,Tier 1,Apartment,3,2850,489.16,1,7,20,Resale,5,4,6,0,1,0,1,1,1,1,1
+PROP_00156,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,1899,74.64,7,14,1,Ready to Move,9,6,7,1,1,0,1,0,0,1,1
+PROP_00157,Bengaluru,Whitefield,Tier 1,Apartment,3,1920,150.03,32,34,12,Under Construction,5,4,6,1,0,1,1,1,1,1,1
+PROP_00158,Pune,Hinjewadi,Tier 1,Apartment,2,860,61.22,1,18,18,Resale,6,5,5,0,0,1,1,1,1,1,1
+PROP_00159,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,3,1221,108.49,11,34,1,Ready to Move,4,5,8,0,1,0,1,1,0,1,1
+PROP_00160,Kolkata,New Town,Tier 1,Apartment,1,539,36.75,8,12,2,Under Construction,9,9,7,1,0,0,1,1,1,1,1
+PROP_00161,Kolkata,New Town,Tier 1,Apartment,2,2751,232.62,18,25,12,Under Construction,9,9,6,0,1,1,1,1,1,1,0
+PROP_00162,Kolkata,New Town,Tier 1,Apartment,4,2954,207.89,2,9,2,Ready to Move,6,6,5,1,1,1,1,1,1,0,0
+PROP_00163,Mumbai,Powai,Tier 1,Penthouse,2,1501,314.71,3,3,13,Ready to Move,7,7,7,1,0,1,1,1,1,0,1
+PROP_00164,Bengaluru,HSR Layout,Tier 1,Independent House,2,532,39.0,2,9,5,Ready to Move,8,4,6,1,1,1,0,1,0,1,0
+PROP_00165,Mumbai,Andheri West,Tier 1,Penthouse,2,1291,288.1,23,29,17,Under Construction,9,6,6,0,0,1,1,1,1,1,0
+PROP_00166,Indore,Super Corridor,Tier 2,Independent House,2,847,30.6,1,13,3,Under Construction,7,7,7,1,0,1,1,1,1,0,0
+PROP_00167,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,1528,60.36,4,20,21,Ready to Move,4,9,6,1,1,1,1,0,1,1,1
+PROP_00168,Indore,Super Corridor,Tier 2,Villa,3,1415,61.84,0,8,18,Ready to Move,4,7,5,1,0,0,1,0,0,1,0
+PROP_00169,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,4,2887,206.38,8,7,17,Under Construction,6,8,7,1,0,1,1,1,0,0,1
+PROP_00170,Mumbai,Andheri West,Tier 1,Independent House,1,2754,575.94,11,21,8,Resale,9,7,8,1,0,0,1,1,1,0,1
+PROP_00171,Kolkata,New Town,Tier 1,Apartment,3,1423,92.82,23,33,10,Under Construction,6,6,7,1,1,1,1,1,1,1,0
+PROP_00172,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,3094,115.1,26,31,15,Under Construction,4,8,5,0,1,1,1,1,1,0,1
+PROP_00173,Hyderabad,Gachibowli,Tier 1,Penthouse,4,686,48.87,23,32,6,Under Construction,6,7,8,1,1,1,1,1,1,1,1
+PROP_00174,Ahmedabad,SG Highway,Tier 1,Apartment,2,1119,99.46,2,19,0,Resale,4,5,8,1,0,0,1,1,1,1,1
+PROP_00175,Bengaluru,Whitefield,Tier 1,Penthouse,3,991,82.42,2,3,22,Under Construction,7,7,6,1,0,0,1,1,1,0,1
+PROP_00176,Ahmedabad,SG Highway,Tier 1,Independent House,3,3101,252.93,3,21,2,Under Construction,6,9,6,1,0,1,1,1,0,1,1
+PROP_00177,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,1759,82.91,2,4,13,Resale,7,9,4,1,1,1,1,1,1,1,1
+PROP_00178,Ahmedabad,SG Highway,Tier 1,Apartment,3,1679,149.62,7,14,8,Ready to Move,9,6,9,0,0,1,1,1,1,0,0
+PROP_00179,Mumbai,Andheri West,Tier 1,Villa,3,669,144.09,3,7,3,Resale,8,6,7,0,1,0,1,1,1,1,1
+PROP_00180,Kolkata,New Town,Tier 1,Apartment,4,1188,103.5,11,34,20,Ready to Move,4,7,6,0,1,1,1,1,1,0,1
+PROP_00181,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2207,114.58,17,27,11,Ready to Move,6,8,5,0,0,1,1,1,1,0,1
+PROP_00182,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,2,717,63.43,14,22,16,Under Construction,7,9,5,1,1,1,1,1,1,1,0
+PROP_00183,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,2,539,43.9,1,13,20,Under Construction,8,8,4,1,0,0,1,0,0,1,0
+PROP_00184,Pune,Wakad,Tier 1,Penthouse,3,1077,75.3,0,3,16,Under Construction,8,8,9,0,1,0,1,0,0,0,0
+PROP_00185,Hyderabad,Gachibowli,Tier 1,Apartment,4,1527,135.44,13,15,5,Ready to Move,8,7,5,1,1,0,0,0,0,1,1
+PROP_00186,Mumbai,Powai,Tier 1,Independent House,4,2545,403.14,3,9,9,Under Construction,7,4,4,1,1,1,1,1,1,0,1
+PROP_00187,Bengaluru,HSR Layout,Tier 1,Villa,1,1016,84.99,7,13,8,Ready to Move,6,6,5,0,1,1,1,1,1,1,1
+PROP_00188,Hyderabad,Hitec City,Tier 1,Apartment,1,992,83.96,6,6,3,Resale,8,7,8,1,0,1,1,0,1,1,1
+PROP_00189,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2449,164.42,2,29,20,Under Construction,4,9,9,1,1,1,1,1,1,1,1
+PROP_00190,Mumbai,Andheri West,Tier 1,Apartment,3,3160,648.81,24,33,17,Ready to Move,4,9,5,1,1,1,1,1,1,1,0
+PROP_00191,Pune,Hinjewadi,Tier 1,Villa,3,3085,231.71,14,18,14,Ready to Move,7,7,6,0,1,1,1,1,1,0,0
+PROP_00192,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2753,192.59,23,32,7,Resale,6,8,8,1,1,1,1,0,1,0,1
+PROP_00193,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,2588,194.01,2,9,4,Resale,4,6,8,0,0,1,1,1,0,1,1
+PROP_00194,Bengaluru,HSR Layout,Tier 1,Independent House,3,2861,192.96,8,31,0,Ready to Move,8,7,8,1,1,1,1,1,1,0,1
+PROP_00195,Kolkata,New Town,Tier 1,Apartment,3,2025,154.53,10,18,14,Ready to Move,5,7,8,1,1,0,1,1,1,1,1
+PROP_00196,Hyderabad,Gachibowli,Tier 1,Penthouse,2,3006,256.06,4,25,20,Ready to Move,8,8,9,1,1,1,1,1,1,1,1
+PROP_00197,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,4,2180,191.84,2,9,21,Ready to Move,5,6,5,1,1,0,0,1,1,1,1
+PROP_00198,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,1,2973,149.49,17,17,7,Under Construction,9,9,4,1,0,1,1,1,1,0,0
+PROP_00199,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,4,1373,70.04,17,26,19,Ready to Move,9,5,6,1,1,0,1,1,0,0,0
+PROP_00200,Pune,Wakad,Tier 1,Penthouse,2,1109,90.13,14,19,4,Ready to Move,5,6,8,0,1,1,1,1,1,1,1
+PROP_00201,Kolkata,New Town,Tier 1,Independent House,3,1350,124.82,2,7,17,Resale,4,6,5,1,1,0,1,1,1,1,1
+PROP_00202,Bengaluru,Whitefield,Tier 1,Apartment,1,3189,236.4,7,18,21,Under Construction,7,4,7,0,1,0,1,1,1,1,1
+PROP_00203,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,3,1238,90.82,2,8,17,Ready to Move,9,4,5,1,1,1,1,0,1,1,1
+PROP_00204,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,745,35.94,11,12,1,Ready to Move,4,4,5,1,1,1,1,1,1,1,1
+PROP_00205,Bengaluru,Whitefield,Tier 1,Penthouse,3,934,74.53,0,7,2,Under Construction,8,4,6,1,0,0,1,1,1,1,1
+PROP_00206,Pune,Hinjewadi,Tier 1,Apartment,2,2051,179.78,4,21,21,Under Construction,4,8,8,0,0,1,1,1,0,0,1
+PROP_00207,Ahmedabad,SG Highway,Tier 1,Apartment,2,2140,194.57,11,35,19,Under Construction,5,4,5,1,1,0,1,1,1,1,0
+PROP_00208,Mumbai,Powai,Tier 1,Apartment,2,852,142.47,22,34,21,Ready to Move,4,6,8,0,0,1,1,1,1,0,1
+PROP_00209,Kolkata,New Town,Tier 1,Apartment,3,1140,72.84,13,18,11,Ready to Move,9,9,6,1,1,1,1,1,0,1,1
+PROP_00210,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,3,1254,89.85,0,7,20,Ready to Move,8,8,7,1,0,0,1,1,1,1,0
+PROP_00211,Jaipur,Vaishali Nagar,Tier 2,Villa,2,2865,137.57,16,21,2,Resale,6,8,4,1,1,1,1,1,1,1,0
+PROP_00212,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2430,223.38,3,5,2,Under Construction,6,5,4,1,1,1,1,1,1,0,1
+PROP_00213,Mumbai,Andheri West,Tier 1,Villa,3,2585,513.42,8,20,17,Ready to Move,7,9,7,1,1,1,1,1,1,1,1
+PROP_00214,Ahmedabad,SG Highway,Tier 1,Independent House,3,2424,219.05,1,3,5,Ready to Move,4,8,9,0,0,0,1,1,1,1,0
+PROP_00215,Mumbai,Andheri West,Tier 1,Apartment,3,2411,452.04,6,13,7,Ready to Move,5,8,8,0,1,0,1,0,1,0,1
+PROP_00216,Bengaluru,Whitefield,Tier 1,Independent House,3,3160,279.31,7,8,5,Ready to Move,7,8,5,1,1,0,1,1,1,1,1
+PROP_00217,Mumbai,Powai,Tier 1,Villa,2,1999,361.33,8,9,21,Resale,5,8,4,0,1,1,1,1,1,0,1
+PROP_00218,Bengaluru,Whitefield,Tier 1,Penthouse,4,3109,238.44,1,29,16,Resale,5,7,7,1,1,1,1,1,1,0,1
+PROP_00219,Mumbai,Powai,Tier 1,Penthouse,2,2900,626.77,0,29,0,Ready to Move,8,4,7,1,1,0,1,1,1,0,1
+PROP_00220,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,1947,89.52,13,28,17,Resale,5,6,8,1,0,0,1,1,1,1,1
+PROP_00221,Pune,Hinjewadi,Tier 1,Villa,3,1112,74.24,21,35,19,Ready to Move,5,7,9,0,0,0,1,1,0,0,0
+PROP_00222,Bengaluru,HSR Layout,Tier 1,Apartment,3,2024,185.54,16,28,22,Ready to Move,5,9,7,1,0,1,1,1,0,1,1
+PROP_00223,Pune,Hinjewadi,Tier 1,Apartment,3,1144,96.06,0,26,2,Under Construction,7,6,9,1,1,1,1,0,0,0,1
+PROP_00224,Ahmedabad,SG Highway,Tier 1,Villa,2,1582,111.59,12,15,0,Under Construction,5,7,8,0,0,0,1,1,1,1,1
+PROP_00225,Pune,Wakad,Tier 1,Independent House,3,2263,209.85,21,33,21,Resale,8,4,7,0,0,1,1,1,1,1,1
+PROP_00226,Bengaluru,Whitefield,Tier 1,Apartment,3,1528,108.79,5,8,17,Ready to Move,7,6,6,0,1,0,1,1,0,1,0
+PROP_00227,Pune,Hinjewadi,Tier 1,Apartment,4,1537,107.52,11,15,3,Ready to Move,4,9,9,1,0,1,1,1,1,1,1
+PROP_00228,Pune,Wakad,Tier 1,Villa,3,1199,111.84,14,35,4,Ready to Move,8,7,7,1,0,0,1,1,1,0,1
+PROP_00229,Kolkata,New Town,Tier 1,Apartment,3,484,31.03,3,16,11,Under Construction,5,8,6,0,1,1,1,1,1,1,1
+PROP_00230,Jaipur,Vaishali Nagar,Tier 2,Apartment,2,2296,88.91,10,11,3,Under Construction,5,8,7,1,0,1,1,1,0,1,0
+PROP_00231,Kolkata,New Town,Tier 1,Apartment,4,2443,177.73,5,6,1,Ready to Move,6,7,9,0,1,0,1,1,1,1,1
+PROP_00232,Ahmedabad,SG Highway,Tier 1,Apartment,4,2930,204.28,4,14,10,Resale,9,7,4,1,0,1,1,1,1,1,1
+PROP_00233,Jaipur,Vaishali Nagar,Tier 2,Penthouse,4,742,27.48,10,24,9,Under Construction,8,9,7,0,1,1,1,1,1,1,0
+PROP_00234,Bengaluru,Whitefield,Tier 1,Apartment,2,1411,117.97,6,8,3,Ready to Move,7,8,4,0,0,1,0,1,0,1,1
+PROP_00235,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,2,1463,125.64,8,31,5,Ready to Move,4,9,6,1,0,1,1,1,1,1,1
+PROP_00236,Hyderabad,Hitec City,Tier 1,Villa,3,2897,224.36,20,30,9,Under Construction,7,8,5,1,1,1,1,1,0,1,1
+PROP_00237,Ahmedabad,SG Highway,Tier 1,Apartment,2,2371,189.21,30,34,0,Resale,6,8,5,1,1,0,1,1,1,1,1
+PROP_00238,Jaipur,Vaishali Nagar,Tier 2,Apartment,2,1527,56.55,8,18,20,Under Construction,7,5,4,0,0,1,1,1,1,0,0
+PROP_00239,Bengaluru,HSR Layout,Tier 1,Penthouse,3,540,37.44,2,9,14,Ready to Move,5,4,5,0,0,1,1,1,1,1,0
+PROP_00240,Mumbai,Powai,Tier 1,Apartment,4,1048,164.57,15,28,6,Under Construction,7,4,4,1,1,1,1,1,1,0,1
+PROP_00241,Mumbai,Andheri West,Tier 1,Apartment,3,3177,710.73,19,33,5,Ready to Move,9,8,8,0,1,0,1,0,1,1,0
+PROP_00242,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,511,19.68,12,20,0,Ready to Move,8,9,7,1,0,1,1,1,1,1,1
+PROP_00243,Bengaluru,HSR Layout,Tier 1,Apartment,1,1906,158.36,3,9,17,Under Construction,7,9,5,0,0,1,1,0,1,1,1
+PROP_00244,Indore,Super Corridor,Tier 2,Apartment,2,2771,107.61,14,25,19,Ready to Move,4,8,5,1,1,1,1,1,1,1,1
+PROP_00245,Ahmedabad,SG Highway,Tier 1,Apartment,4,2990,212.03,6,7,16,Resale,8,5,8,0,1,0,0,1,0,1,0
+PROP_00246,Bengaluru,HSR Layout,Tier 1,Independent House,2,888,69.54,10,9,21,Resale,8,8,9,1,0,0,1,0,1,1,1
+PROP_00247,Mumbai,Powai,Tier 1,Penthouse,3,3067,482.66,25,29,1,Under Construction,8,4,9,0,0,1,1,0,1,1,0
+PROP_00248,Pune,Hinjewadi,Tier 1,Penthouse,3,3011,277.54,24,29,18,Under Construction,9,7,9,1,1,0,1,1,1,0,1
+PROP_00249,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,2,1740,78.2,13,23,13,Under Construction,8,5,8,1,0,1,1,1,1,1,0
+PROP_00250,Bengaluru,HSR Layout,Tier 1,Apartment,2,2890,185.65,4,11,9,Ready to Move,5,6,4,1,1,1,1,1,1,1,0
+PROP_00251,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,1089,41.41,7,26,8,Under Construction,4,8,7,1,0,0,1,1,1,1,1
+PROP_00252,Mumbai,Andheri West,Tier 1,Apartment,3,3080,537.86,1,27,11,Resale,7,4,5,1,1,1,1,1,0,1,0
+PROP_00253,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,2,2507,212.3,11,12,14,Ready to Move,5,7,6,1,0,0,1,1,1,0,1
+PROP_00254,Kochi,Kakkanad (Infopark),Tier 2,Independent House,4,984,47.73,31,33,20,Ready to Move,8,8,9,1,0,0,1,1,1,0,1
+PROP_00255,Ahmedabad,SG Highway,Tier 1,Apartment,2,1230,90.25,1,4,19,Resale,8,5,7,0,1,0,1,1,1,0,0
+PROP_00256,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,4,1628,104.46,7,10,10,Ready to Move,9,8,5,0,1,0,1,1,0,1,0
+PROP_00257,Bengaluru,HSR Layout,Tier 1,Apartment,2,1147,75.19,8,15,14,Ready to Move,4,7,9,0,1,1,1,0,1,1,0
+PROP_00258,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,857,43.61,34,34,5,Ready to Move,8,7,8,1,0,0,1,1,1,0,0
+PROP_00259,Ahmedabad,SG Highway,Tier 1,Penthouse,2,3010,219.19,3,35,8,Resale,4,8,6,0,0,1,1,1,1,1,1
+PROP_00260,Pune,Hinjewadi,Tier 1,Villa,3,1434,116.06,29,30,10,Resale,8,5,5,1,1,1,1,0,1,1,1
+PROP_00261,Kochi,Kakkanad (Infopark),Tier 2,Villa,4,1044,48.78,8,13,3,Ready to Move,6,5,9,0,0,1,1,1,1,1,1
+PROP_00262,Pune,Wakad,Tier 1,Villa,2,1219,81.62,8,14,18,Ready to Move,8,5,5,1,0,1,1,1,1,1,1
+PROP_00263,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,2390,90.84,13,15,8,Resale,5,9,9,1,1,0,1,1,1,1,0
+PROP_00264,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,2,2201,93.55,3,5,10,Resale,8,9,8,1,1,1,1,1,1,1,0
+PROP_00265,Pune,Hinjewadi,Tier 1,Penthouse,3,2653,200.62,4,5,1,Ready to Move,6,7,7,1,1,0,1,1,1,1,1
+PROP_00266,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,4,3096,134.02,37,35,17,Ready to Move,7,7,6,1,0,1,1,1,1,0,1
+PROP_00267,Hyderabad,Hitec City,Tier 1,Villa,3,956,63.56,5,31,22,Resale,9,8,8,1,0,1,1,1,1,1,0
+PROP_00268,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,660,50.38,14,22,20,Ready to Move,4,5,5,0,1,0,1,1,1,1,1
+PROP_00269,Hyderabad,Gachibowli,Tier 1,Villa,3,3151,245.85,19,29,0,Ready to Move,8,6,8,1,1,0,1,0,1,0,0
+PROP_00270,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,2,809,52.76,5,29,9,Ready to Move,7,9,8,1,0,1,1,1,1,1,1
+PROP_00271,Mumbai,Powai,Tier 1,Villa,2,2378,386.87,13,20,6,Ready to Move,8,4,4,1,1,1,0,1,1,1,1
+PROP_00272,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,1746,69.95,19,25,15,Resale,7,5,8,0,0,0,1,1,1,1,0
+PROP_00273,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,636,26.27,6,16,9,Under Construction,4,6,6,1,0,0,1,1,1,1,0
+PROP_00274,Hyderabad,Hitec City,Tier 1,Penthouse,2,1803,160.04,2,33,4,Resale,5,9,7,1,1,0,1,1,1,1,0
+PROP_00275,Kolkata,New Town,Tier 1,Apartment,3,2644,170.04,11,24,4,Under Construction,4,6,7,1,1,1,1,1,1,1,1
+PROP_00276,Kolkata,New Town,Tier 1,Apartment,3,579,41.63,3,8,14,Under Construction,5,8,6,0,0,0,1,0,1,1,1
+PROP_00277,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,1843,168.56,4,22,16,Ready to Move,5,9,4,1,1,1,0,1,1,1,0
+PROP_00278,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,872,38.76,24,22,20,Ready to Move,6,5,5,0,1,1,1,1,0,0,1
+PROP_00279,Mumbai,Andheri West,Tier 1,Apartment,2,2672,476.21,22,23,18,Ready to Move,5,4,6,1,0,1,1,1,1,0,0
+PROP_00280,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1183,56.24,19,31,6,Ready to Move,7,8,5,0,1,1,0,1,1,1,1
+PROP_00281,Pune,Hinjewadi,Tier 1,Penthouse,2,2976,212.76,22,26,10,Under Construction,7,7,4,0,0,1,1,1,1,1,1
+PROP_00282,Jaipur,Vaishali Nagar,Tier 2,Independent House,4,888,36.56,7,7,18,Resale,5,8,5,1,1,1,1,1,1,1,1
+PROP_00283,Kolkata,New Town,Tier 1,Apartment,3,1417,97.69,7,7,18,Resale,6,8,4,1,0,1,0,0,1,1,1
+PROP_00284,Indore,Super Corridor,Tier 2,Apartment,3,3154,115.86,0,16,21,Ready to Move,7,8,6,1,1,0,1,1,1,1,0
+PROP_00285,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1860,97.35,3,3,9,Ready to Move,6,8,4,0,1,1,1,1,0,1,1
+PROP_00286,Kolkata,New Town,Tier 1,Apartment,3,2017,153.15,21,30,15,Ready to Move,5,8,7,1,0,1,1,1,0,0,1
+PROP_00287,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,3,2443,203.96,10,11,14,Resale,8,5,7,1,1,1,1,1,1,1,1
+PROP_00288,Pune,Hinjewadi,Tier 1,Villa,3,2505,179.93,1,26,15,Under Construction,4,8,7,1,0,1,1,1,1,0,1
+PROP_00289,Mumbai,Powai,Tier 1,Villa,2,2385,473.2,4,7,1,Under Construction,8,4,7,1,1,1,1,1,1,0,0
+PROP_00290,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,3,2758,197.37,3,33,9,Ready to Move,6,7,4,0,0,1,1,1,1,0,1
+PROP_00291,Hyderabad,Hitec City,Tier 1,Penthouse,3,1069,89.29,8,26,7,Resale,5,8,4,1,0,0,1,1,1,1,1
+PROP_00292,Pune,Hinjewadi,Tier 1,Apartment,3,2252,192.61,11,13,1,Under Construction,4,4,5,1,1,1,1,1,1,1,1
+PROP_00293,Pune,Wakad,Tier 1,Independent House,2,2622,235.61,3,3,21,Under Construction,8,9,4,0,1,1,1,1,1,0,0
+PROP_00294,Mumbai,Andheri West,Tier 1,Penthouse,2,3130,610.54,15,32,21,Ready to Move,8,6,9,1,0,1,1,1,0,0,0
+PROP_00295,Lucknow,Gomti Nagar Extension,Tier 2,Villa,2,1348,64.55,0,19,2,Ready to Move,8,9,5,1,1,1,1,1,0,1,1
+PROP_00296,Hyderabad,Hitec City,Tier 1,Penthouse,1,1204,85.91,4,32,14,Under Construction,7,9,9,1,0,0,0,1,1,1,0
+PROP_00297,Pune,Wakad,Tier 1,Penthouse,2,2254,148.39,5,15,15,Ready to Move,5,8,7,0,1,1,1,0,0,1,0
+PROP_00298,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,2488,95.04,3,3,4,Under Construction,7,8,4,1,1,1,1,1,1,1,1
+PROP_00299,Bengaluru,Whitefield,Tier 1,Independent House,3,2424,163.34,9,25,1,Ready to Move,6,8,6,0,1,1,1,1,0,1,0
+PROP_00300,Jaipur,Vaishali Nagar,Tier 2,Penthouse,1,3033,143.38,28,34,6,Ready to Move,4,5,4,1,1,1,0,1,1,1,1
+PROP_00301,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,1,601,24.88,1,24,3,Ready to Move,9,9,8,1,1,1,1,1,1,0,0
+PROP_00302,Bengaluru,Whitefield,Tier 1,Apartment,3,2982,194.2,10,11,9,Ready to Move,7,8,5,1,0,1,1,1,1,0,0
+PROP_00303,Kolkata,New Town,Tier 1,Apartment,4,2096,154.01,3,11,18,Ready to Move,6,4,4,0,1,0,1,1,1,1,0
+PROP_00304,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,1096,39.41,0,34,2,Under Construction,7,9,7,1,0,1,1,1,1,1,0
+PROP_00305,Hyderabad,Hitec City,Tier 1,Apartment,3,2497,205.03,4,8,13,Ready to Move,8,5,5,0,1,0,1,1,1,0,1
+PROP_00306,Hyderabad,Gachibowli,Tier 1,Independent House,2,667,46.4,7,12,5,Ready to Move,9,4,4,1,0,1,1,1,1,0,1
+PROP_00307,Hyderabad,Hitec City,Tier 1,Penthouse,2,569,44.55,3,10,14,Under Construction,7,5,9,1,0,1,1,0,1,1,1
+PROP_00308,Pune,Hinjewadi,Tier 1,Apartment,1,2379,193.42,1,6,19,Resale,5,7,6,0,1,1,1,1,0,1,0
+PROP_00309,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,1,2356,182.61,3,13,19,Ready to Move,9,8,5,1,1,0,1,1,1,0,1
+PROP_00310,Lucknow,Gomti Nagar Extension,Tier 2,Villa,2,509,24.41,13,18,7,Ready to Move,8,4,7,1,0,1,1,0,1,1,1
+PROP_00311,Mumbai,Andheri West,Tier 1,Apartment,3,2478,422.05,3,3,4,Under Construction,6,5,9,1,0,1,1,1,1,1,1
+PROP_00312,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,4,1017,51.24,27,28,20,Resale,9,9,4,1,0,1,1,0,1,0,1
+PROP_00313,Hyderabad,Gachibowli,Tier 1,Villa,4,781,64.33,1,24,21,Under Construction,4,4,7,1,1,1,1,1,0,1,0
+PROP_00314,Kolkata,New Town,Tier 1,Penthouse,2,2660,178.64,13,33,7,Under Construction,6,6,8,1,0,0,1,1,1,0,1
+PROP_00315,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2993,223.86,7,7,2,Resale,5,6,4,0,0,1,1,1,1,1,0
+PROP_00316,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1870,142.78,0,4,7,Under Construction,7,8,6,1,1,1,1,1,1,1,1
+PROP_00317,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,1514,106.82,24,26,4,Under Construction,6,7,5,1,0,1,1,1,1,1,1
+PROP_00318,Hyderabad,Hitec City,Tier 1,Apartment,2,928,60.31,14,23,11,Ready to Move,5,8,9,0,0,0,1,1,0,1,1
+PROP_00319,Jaipur,Vaishali Nagar,Tier 2,Villa,3,1045,53.95,23,23,16,Under Construction,9,9,6,1,0,1,1,1,0,1,1
+PROP_00320,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,910,43.67,1,5,0,Resale,8,5,7,1,0,1,1,1,1,1,0
+PROP_00321,Mumbai,Powai,Tier 1,Apartment,3,2274,458.78,6,8,15,Under Construction,8,8,8,1,1,1,1,1,1,1,0
+PROP_00322,Ahmedabad,SG Highway,Tier 1,Penthouse,2,2275,204.7,7,8,13,Resale,6,5,9,1,1,1,1,1,0,0,1
+PROP_00323,Kolkata,New Town,Tier 1,Apartment,1,2869,247.98,10,8,13,Ready to Move,8,7,9,1,1,0,1,1,1,1,0
+PROP_00324,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2740,235.49,0,17,8,Under Construction,9,9,7,0,1,0,1,1,1,0,1
+PROP_00325,Indore,Super Corridor,Tier 2,Penthouse,1,2903,140.0,16,33,21,Resale,9,4,6,1,1,1,1,0,1,1,0
+PROP_00326,Hyderabad,Hitec City,Tier 1,Villa,1,1566,116.8,9,25,20,Ready to Move,8,5,9,0,0,1,1,1,1,1,0
+PROP_00327,Ahmedabad,SG Highway,Tier 1,Apartment,1,2638,214.08,8,12,11,Resale,7,6,5,0,0,0,1,1,1,1,1
+PROP_00328,Mumbai,Andheri West,Tier 1,Independent House,3,2336,511.48,0,10,11,Under Construction,9,6,5,1,1,1,1,1,1,0,1
+PROP_00329,Pune,Hinjewadi,Tier 1,Apartment,2,1033,87.18,4,22,13,Ready to Move,4,4,7,1,0,0,1,1,0,0,0
+PROP_00330,Mumbai,Powai,Tier 1,Apartment,2,3184,489.51,9,9,18,Ready to Move,5,9,6,0,0,1,1,1,1,1,1
+PROP_00331,Pune,Hinjewadi,Tier 1,Apartment,3,2785,183.25,1,3,5,Ready to Move,9,4,5,1,1,1,1,1,1,0,1
+PROP_00332,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,1327,58.84,20,29,14,Ready to Move,8,5,7,1,1,1,0,1,0,0,1
+PROP_00333,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,2268,159.95,27,29,6,Ready to Move,7,9,6,0,1,1,1,1,1,0,0
+PROP_00334,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,2868,149.49,6,13,6,Resale,4,5,7,1,0,1,1,1,1,1,1
+PROP_00335,Indore,Super Corridor,Tier 2,Independent House,3,2920,150.85,9,34,3,Ready to Move,6,7,7,0,1,0,1,1,1,0,0
+PROP_00336,Kolkata,New Town,Tier 1,Independent House,2,1690,139.27,8,9,14,Ready to Move,6,9,7,1,0,0,1,1,1,0,1
+PROP_00337,Mumbai,Andheri West,Tier 1,Apartment,3,2293,402.76,1,27,5,Under Construction,9,5,7,1,0,1,1,1,1,1,1
+PROP_00338,Indore,Super Corridor,Tier 2,Independent House,3,2752,137.75,16,35,18,Resale,8,9,6,1,0,0,1,0,1,1,1
+PROP_00339,Kolkata,New Town,Tier 1,Penthouse,3,848,64.95,1,25,7,Ready to Move,5,9,6,1,1,0,1,1,0,1,1
+PROP_00340,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,2558,130.06,15,20,0,Under Construction,7,8,7,1,0,1,1,1,1,1,1
+PROP_00341,Hyderabad,Hitec City,Tier 1,Apartment,3,1676,125.11,20,30,17,Ready to Move,6,6,4,0,1,1,1,1,1,1,1
+PROP_00342,Pune,Wakad,Tier 1,Apartment,1,2770,243.17,22,33,20,Under Construction,8,6,7,1,0,1,1,1,1,1,1
+PROP_00343,Hyderabad,Hitec City,Tier 1,Villa,3,2494,174.93,27,32,20,Ready to Move,8,5,6,1,0,1,1,1,1,1,1
+PROP_00344,Hyderabad,Gachibowli,Tier 1,Penthouse,4,2139,153.49,8,21,19,Ready to Move,7,5,4,0,0,1,1,1,1,1,1
+PROP_00345,Hyderabad,Gachibowli,Tier 1,Penthouse,2,1567,106.31,8,19,17,Ready to Move,9,4,9,1,0,1,0,1,1,1,1
+PROP_00346,Ahmedabad,SG Highway,Tier 1,Apartment,3,3142,283.79,23,28,7,Ready to Move,8,9,8,1,1,1,1,1,1,1,0
+PROP_00347,Mumbai,Andheri West,Tier 1,Apartment,4,1733,306.24,23,27,13,Ready to Move,5,4,5,0,0,1,1,0,1,1,0
+PROP_00348,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1459,75.7,11,12,9,Ready to Move,9,8,4,1,1,1,1,1,1,1,0
+PROP_00349,Ahmedabad,SG Highway,Tier 1,Apartment,4,949,75.73,12,18,12,Under Construction,6,4,5,0,1,0,1,1,1,1,1
+PROP_00350,Pune,Wakad,Tier 1,Apartment,4,778,68.81,26,34,22,Resale,4,5,9,0,0,1,1,1,1,1,1
+PROP_00351,Hyderabad,Hitec City,Tier 1,Penthouse,3,2266,198.23,3,11,9,Under Construction,8,4,4,0,1,1,1,1,1,1,1
+PROP_00352,Kolkata,New Town,Tier 1,Villa,3,2409,216.7,10,11,10,Under Construction,5,4,7,1,0,1,1,1,0,0,1
+PROP_00353,Pune,Hinjewadi,Tier 1,Villa,1,2344,163.37,13,13,8,Ready to Move,4,6,5,1,0,1,1,1,1,1,0
+PROP_00354,Hyderabad,Gachibowli,Tier 1,Apartment,2,1540,111.48,27,34,19,Ready to Move,6,9,9,0,0,1,0,1,1,1,0
+PROP_00355,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,1,492,21.44,12,23,6,Resale,9,7,9,1,0,1,0,1,1,1,1
+PROP_00356,Bengaluru,HSR Layout,Tier 1,Penthouse,1,1488,117.38,12,27,11,Ready to Move,8,4,8,0,0,1,1,1,0,1,1
+PROP_00357,Pune,Wakad,Tier 1,Penthouse,1,1733,112.77,4,11,11,Resale,6,6,8,1,1,1,1,1,1,1,1
+PROP_00358,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,1223,46.71,15,17,5,Resale,7,4,7,0,0,1,1,1,1,1,0
+PROP_00359,Mumbai,Powai,Tier 1,Apartment,2,1613,267.77,13,13,18,Ready to Move,8,4,8,1,0,1,1,1,0,1,0
+PROP_00360,Mumbai,Andheri West,Tier 1,Apartment,3,1980,387.1,2,9,2,Resale,9,9,7,1,1,1,0,1,1,1,0
+PROP_00361,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,2,649,56.98,1,21,2,Resale,4,7,6,0,1,1,0,1,0,1,0
+PROP_00362,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,1,1672,131.21,29,30,21,Ready to Move,6,9,4,1,1,1,1,1,1,1,1
+PROP_00363,Ahmedabad,SG Highway,Tier 1,Apartment,3,1213,93.13,32,30,14,Ready to Move,9,9,9,0,1,1,1,1,1,1,1
+PROP_00364,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,2,1680,149.51,1,30,2,Ready to Move,8,4,8,1,0,1,1,1,1,0,1
+PROP_00365,Mumbai,Andheri West,Tier 1,Apartment,3,3159,588.61,0,14,13,Under Construction,6,8,9,1,1,1,1,1,1,0,0
+PROP_00366,Pune,Wakad,Tier 1,Apartment,4,885,67.94,0,4,5,Resale,7,9,7,1,1,1,1,1,1,1,1
+PROP_00367,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,1689,62.78,1,11,22,Ready to Move,4,5,7,1,1,1,1,1,0,1,1
+PROP_00368,Indore,Super Corridor,Tier 2,Independent House,3,539,20.3,7,12,15,Ready to Move,7,8,5,0,1,1,0,0,1,1,1
+PROP_00369,Indore,Super Corridor,Tier 2,Independent House,3,2820,128.9,12,21,16,Resale,5,9,4,1,1,0,0,1,1,1,1
+PROP_00370,Ahmedabad,SG Highway,Tier 1,Apartment,3,2236,143.94,15,21,14,Ready to Move,8,5,8,1,0,1,1,1,0,0,1
+PROP_00371,Kochi,Kakkanad (Infopark),Tier 2,Villa,4,3122,149.98,10,33,6,Under Construction,9,9,4,1,0,0,1,0,1,1,0
+PROP_00372,Hyderabad,Gachibowli,Tier 1,Penthouse,3,642,60.17,11,25,5,Ready to Move,8,4,4,1,0,0,1,1,1,1,1
+PROP_00373,Pune,Wakad,Tier 1,Independent House,2,2561,209.69,7,9,3,Ready to Move,8,8,4,1,0,0,1,1,1,0,0
+PROP_00374,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,4,2522,111.15,5,9,4,Ready to Move,5,7,7,1,0,1,1,1,0,0,1
+PROP_00375,Kochi,Kakkanad (Infopark),Tier 2,Independent House,2,3028,141.93,8,12,7,Ready to Move,7,7,7,1,1,1,1,1,1,1,1
+PROP_00376,Mumbai,Powai,Tier 1,Apartment,1,1835,322.35,6,13,21,Ready to Move,8,4,9,1,1,1,1,1,1,1,1
+PROP_00377,Kolkata,New Town,Tier 1,Penthouse,2,482,42.69,7,12,6,Resale,9,6,9,1,0,0,0,1,1,1,0
+PROP_00378,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,830,65.65,20,22,0,Ready to Move,8,8,6,0,1,1,1,0,0,1,1
+PROP_00379,Ahmedabad,SG Highway,Tier 1,Penthouse,1,645,55.76,9,10,0,Resale,6,5,9,1,1,1,1,1,1,1,0
+PROP_00380,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,3,1996,158.36,16,18,6,Under Construction,7,4,5,1,1,0,0,1,1,1,1
+PROP_00381,Jaipur,Vaishali Nagar,Tier 2,Independent House,3,2739,121.66,18,28,20,Resale,7,9,7,1,1,0,1,1,1,1,1
+PROP_00382,Mumbai,Andheri West,Tier 1,Apartment,3,1320,245.24,4,5,3,Resale,4,4,6,1,0,0,1,1,1,1,1
+PROP_00383,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,4,2865,218.89,6,22,15,Ready to Move,4,8,6,0,0,1,1,1,1,1,1
+PROP_00384,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,4,1017,80.23,28,32,10,Ready to Move,8,9,8,1,0,1,1,1,1,1,1
+PROP_00385,Hyderabad,Hitec City,Tier 1,Penthouse,3,551,44.58,3,22,17,Ready to Move,5,8,8,1,0,1,1,1,1,0,1
+PROP_00386,Hyderabad,Hitec City,Tier 1,Independent House,1,1576,137.67,18,18,2,Under Construction,7,8,4,1,1,0,1,0,1,1,0
+PROP_00387,Mumbai,Andheri West,Tier 1,Apartment,3,1138,197.49,1,14,9,Resale,9,5,4,1,0,0,0,1,1,1,0
+PROP_00388,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,945,34.56,18,18,15,Resale,4,6,4,1,1,0,0,1,1,0,1
+PROP_00389,Mumbai,Andheri West,Tier 1,Independent House,2,2722,544.16,6,11,2,Ready to Move,5,6,8,1,1,1,1,1,1,0,1
+PROP_00390,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,3,1135,72.37,16,33,12,Under Construction,9,5,8,1,0,0,1,0,0,1,1
+PROP_00391,Pune,Wakad,Tier 1,Penthouse,3,1313,107.75,10,23,8,Resale,6,5,9,1,0,1,1,0,1,1,0
+PROP_00392,Indore,Super Corridor,Tier 2,Penthouse,1,489,22.98,22,29,15,Resale,8,4,9,1,1,1,1,1,0,1,1
+PROP_00393,Ahmedabad,SG Highway,Tier 1,Apartment,3,1175,104.49,2,3,14,Ready to Move,5,9,4,1,1,1,1,1,1,1,0
+PROP_00394,Indore,Super Corridor,Tier 2,Apartment,2,600,24.25,12,16,8,Resale,5,8,5,1,1,1,1,0,0,0,0
+PROP_00395,Pune,Hinjewadi,Tier 1,Villa,3,1573,109.33,4,4,8,Resale,4,7,9,1,1,1,1,1,1,0,1
+PROP_00396,Indore,Super Corridor,Tier 2,Villa,2,2568,124.42,13,17,14,Under Construction,4,7,5,1,1,1,1,1,1,1,1
+PROP_00397,Hyderabad,Gachibowli,Tier 1,Apartment,2,1798,131.39,6,9,18,Under Construction,6,5,4,1,1,1,1,1,1,0,1
+PROP_00398,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,4,841,38.86,0,10,12,Under Construction,9,4,5,0,1,0,1,1,0,0,0
+PROP_00399,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,842,38.79,19,29,19,Ready to Move,7,7,7,1,1,1,1,1,1,1,0
+PROP_00400,Hyderabad,Gachibowli,Tier 1,Villa,1,870,55.78,3,7,4,Under Construction,6,7,7,1,1,0,1,0,1,1,1
+PROP_00401,Ahmedabad,SG Highway,Tier 1,Villa,2,2840,256.47,4,12,10,Under Construction,6,4,8,1,1,0,1,1,1,1,0
+PROP_00402,Hyderabad,Gachibowli,Tier 1,Penthouse,3,1274,111.23,15,24,22,Resale,8,9,6,1,1,0,1,1,0,1,1
+PROP_00403,Indore,Super Corridor,Tier 2,Apartment,2,465,21.59,6,17,15,Under Construction,9,7,5,1,1,0,0,1,1,0,1
+PROP_00404,Ahmedabad,SG Highway,Tier 1,Penthouse,1,571,39.81,8,21,5,Under Construction,8,5,5,0,0,0,1,1,0,1,1
+PROP_00405,Kolkata,New Town,Tier 1,Apartment,2,1699,131.56,21,26,16,Resale,9,4,4,0,1,1,1,1,1,1,1
+PROP_00406,Pune,Hinjewadi,Tier 1,Apartment,1,2973,241.91,10,21,1,Under Construction,5,8,8,1,0,0,1,1,0,1,1
+PROP_00407,Ahmedabad,SG Highway,Tier 1,Penthouse,3,2575,200.02,16,23,15,Resale,7,6,8,1,1,1,0,1,1,1,1
+PROP_00408,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,1994,161.3,2,26,2,Under Construction,7,8,6,0,0,1,1,1,1,1,1
+PROP_00409,Pune,Wakad,Tier 1,Apartment,3,551,38.09,2,17,2,Under Construction,8,8,8,1,1,1,0,0,0,0,0
+PROP_00410,Kolkata,New Town,Tier 1,Apartment,2,1689,145.43,19,20,22,Under Construction,4,6,6,1,1,1,1,1,1,1,1
+PROP_00411,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,4,2078,146.66,16,16,17,Resale,9,7,6,1,0,0,1,1,1,1,1
+PROP_00412,Ahmedabad,SG Highway,Tier 1,Independent House,2,2815,253.24,0,22,21,Under Construction,6,5,7,1,1,1,1,1,1,1,0
+PROP_00413,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,2,1802,145.59,6,28,2,Resale,5,7,4,1,1,1,1,1,1,0,1
+PROP_00414,Indore,Super Corridor,Tier 2,Apartment,1,1214,47.4,7,27,21,Ready to Move,7,4,6,1,0,1,1,1,0,1,1
+PROP_00415,Mumbai,Powai,Tier 1,Apartment,3,1295,210.25,15,16,19,Under Construction,8,5,8,1,1,0,1,1,1,1,0
+PROP_00416,Kolkata,New Town,Tier 1,Penthouse,3,2460,190.79,2,5,14,Under Construction,9,9,6,1,1,1,1,1,1,1,1
+PROP_00417,Hyderabad,Hitec City,Tier 1,Apartment,3,2779,185.13,1,5,20,Under Construction,9,4,9,1,1,1,1,1,0,1,1
+PROP_00418,Kolkata,New Town,Tier 1,Apartment,3,2297,157.79,14,16,2,Resale,7,6,9,1,0,0,1,1,0,1,1
+PROP_00419,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,788,35.39,14,18,15,Under Construction,5,5,4,1,0,0,1,1,1,0,0
+PROP_00420,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,1178,46.34,4,5,14,Ready to Move,9,8,9,1,1,0,1,1,1,0,1
+PROP_00421,Hyderabad,Gachibowli,Tier 1,Apartment,2,1984,180.57,13,15,0,Under Construction,5,9,9,0,1,0,1,1,1,0,1
+PROP_00422,Kolkata,New Town,Tier 1,Independent House,2,2752,227.19,12,16,3,Ready to Move,5,4,6,1,0,1,0,1,1,1,0
+PROP_00423,Ahmedabad,SG Highway,Tier 1,Independent House,1,725,65.48,19,29,3,Ready to Move,6,4,8,1,1,1,1,1,0,0,1
+PROP_00424,Kolkata,New Town,Tier 1,Independent House,4,3179,248.64,18,24,12,Ready to Move,8,8,9,1,0,1,1,1,1,1,1
+PROP_00425,Bengaluru,HSR Layout,Tier 1,Penthouse,2,1984,156.16,6,15,1,Ready to Move,9,8,7,1,0,0,1,1,1,1,1
+PROP_00426,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,4,547,38.63,6,24,1,Ready to Move,9,9,9,0,1,1,1,1,0,1,1
+PROP_00427,Bengaluru,HSR Layout,Tier 1,Villa,3,1029,94.56,9,11,6,Ready to Move,8,4,7,1,0,1,1,1,1,0,1
+PROP_00428,Hyderabad,Gachibowli,Tier 1,Independent House,2,2420,160.08,5,26,14,Resale,8,8,9,1,0,1,1,1,1,0,1
+PROP_00429,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2650,181.08,7,14,14,Under Construction,7,8,8,1,0,1,1,1,0,1,1
+PROP_00430,Ahmedabad,SG Highway,Tier 1,Independent House,3,2107,192.83,11,28,15,Under Construction,9,8,4,1,0,1,1,1,0,1,0
+PROP_00431,Ahmedabad,SG Highway,Tier 1,Independent House,3,2451,202.94,20,26,13,Ready to Move,5,7,4,1,0,1,0,1,0,1,1
+PROP_00432,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,2,1463,119.69,2,13,22,Resale,7,9,8,1,0,1,1,1,1,1,1
+PROP_00433,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,1711,82.18,9,8,4,Under Construction,9,5,9,1,0,1,1,0,0,1,1
+PROP_00434,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2215,152.54,4,26,15,Ready to Move,8,4,7,1,0,0,1,1,0,1,1
+PROP_00435,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,3007,112.87,2,13,3,Under Construction,4,6,4,1,1,1,1,0,1,0,1
+PROP_00436,Bengaluru,HSR Layout,Tier 1,Independent House,1,1314,104.36,2,3,15,Under Construction,8,7,6,1,1,1,1,1,1,1,0
+PROP_00437,Ahmedabad,SG Highway,Tier 1,Penthouse,4,1802,158.46,3,3,4,Ready to Move,8,4,8,0,1,1,1,1,1,1,1
+PROP_00438,Hyderabad,Gachibowli,Tier 1,Apartment,1,3063,283.26,11,23,10,Resale,5,8,7,1,1,0,1,1,1,1,1
+PROP_00439,Mumbai,Andheri West,Tier 1,Apartment,3,2026,352.84,1,15,15,Ready to Move,6,9,8,1,1,1,1,1,1,0,0
+PROP_00440,Mumbai,Powai,Tier 1,Independent House,1,2231,500.91,2,4,8,Ready to Move,9,6,9,1,1,0,1,1,1,0,1
+PROP_00441,Pune,Hinjewadi,Tier 1,Penthouse,3,2910,191.16,22,24,12,Resale,5,5,6,0,0,0,1,1,1,0,1
+PROP_00442,Kolkata,New Town,Tier 1,Apartment,3,2813,241.52,17,22,12,Resale,6,6,9,1,0,1,1,0,0,1,0
+PROP_00443,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,4,1346,105.99,18,32,21,Ready to Move,8,6,6,1,1,0,1,1,1,0,0
+PROP_00444,Jaipur,Vaishali Nagar,Tier 2,Penthouse,1,1814,69.41,7,16,1,Ready to Move,7,9,7,0,1,1,1,0,1,1,1
+PROP_00445,Ahmedabad,SG Highway,Tier 1,Penthouse,4,2053,154.96,6,21,17,Resale,4,5,6,1,1,1,1,1,1,0,0
+PROP_00446,Indore,Super Corridor,Tier 2,Apartment,2,1043,40.91,0,15,18,Ready to Move,9,5,7,1,1,1,1,0,1,0,0
+PROP_00447,Kolkata,New Town,Tier 1,Apartment,3,2226,206.67,3,28,12,Resale,6,9,8,1,1,1,1,1,1,1,1
+PROP_00448,Jaipur,Vaishali Nagar,Tier 2,Apartment,2,3040,141.89,3,26,3,Resale,9,9,8,0,1,1,1,1,0,1,1
+PROP_00449,Kochi,Kakkanad (Infopark),Tier 2,Villa,2,2790,105.47,25,23,5,Resale,9,4,7,1,1,1,1,1,1,1,1
+PROP_00450,Mumbai,Andheri West,Tier 1,Penthouse,4,1299,289.07,9,10,5,Ready to Move,8,7,6,0,0,0,1,1,1,0,1
+PROP_00451,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,2,2679,184.58,0,3,9,Resale,5,8,7,1,1,1,1,1,1,0,1
+PROP_00452,Pune,Hinjewadi,Tier 1,Villa,1,1220,82.96,6,16,11,Under Construction,5,9,8,1,1,0,1,1,1,1,1
+PROP_00453,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1284,84.57,20,20,22,Under Construction,8,9,9,1,1,1,1,1,1,0,1
+PROP_00454,Mumbai,Powai,Tier 1,Apartment,2,960,183.62,5,29,10,Under Construction,5,5,6,0,0,1,1,0,1,0,1
+PROP_00455,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,3,2455,163.54,9,25,8,Ready to Move,4,5,6,1,0,0,1,1,1,1,1
+PROP_00456,Indore,Super Corridor,Tier 2,Apartment,3,972,38.93,8,35,12,Under Construction,4,9,9,1,1,0,1,1,0,1,1
+PROP_00457,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,2202,174.77,2,17,13,Under Construction,4,9,4,0,0,0,1,0,1,1,1
+PROP_00458,Bengaluru,Whitefield,Tier 1,Penthouse,3,2533,232.33,8,11,21,Ready to Move,7,4,8,0,1,0,1,1,1,1,1
+PROP_00459,Bengaluru,HSR Layout,Tier 1,Apartment,3,2287,211.98,11,17,16,Under Construction,4,7,7,1,0,0,1,1,1,1,0
+PROP_00460,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,1652,118.44,3,3,9,Ready to Move,7,8,7,0,0,1,1,0,1,1,1
+PROP_00461,Bengaluru,Whitefield,Tier 1,Independent House,1,2214,173.82,2,8,3,Resale,4,5,9,0,1,1,1,1,1,0,1
+PROP_00462,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,1022,42.56,12,30,6,Under Construction,4,5,7,1,0,0,1,1,1,1,0
+PROP_00463,Indore,Super Corridor,Tier 2,Villa,3,2479,121.81,6,11,12,Ready to Move,4,4,4,0,0,0,1,0,1,1,1
+PROP_00464,Bengaluru,Whitefield,Tier 1,Apartment,3,2416,175.0,27,34,19,Ready to Move,9,8,5,0,1,1,1,1,1,0,1
+PROP_00465,Mumbai,Andheri West,Tier 1,Apartment,3,2507,493.88,4,15,3,Ready to Move,7,4,6,1,1,1,1,0,0,1,0
+PROP_00466,Pune,Hinjewadi,Tier 1,Apartment,2,1826,139.75,5,6,9,Ready to Move,6,6,6,1,1,0,1,1,0,1,0
+PROP_00467,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,1597,145.33,4,9,11,Under Construction,6,4,4,1,1,1,1,1,1,1,1
+PROP_00468,Ahmedabad,SG Highway,Tier 1,Apartment,2,3113,224.22,3,27,20,Ready to Move,4,8,9,1,0,1,0,1,1,1,1
+PROP_00469,Hyderabad,Gachibowli,Tier 1,Villa,3,1079,70.2,8,15,11,Under Construction,7,9,9,0,1,1,1,1,1,0,0
+PROP_00470,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,636,58.78,5,6,12,Resale,9,8,8,1,0,1,1,1,1,0,0
+PROP_00471,Hyderabad,Hitec City,Tier 1,Villa,3,1342,109.39,3,3,22,Under Construction,6,5,6,1,1,0,0,1,0,0,1
+PROP_00472,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,2,661,54.88,6,18,3,Ready to Move,9,6,9,1,0,0,1,1,1,1,1
+PROP_00473,Kolkata,New Town,Tier 1,Apartment,1,3013,265.83,8,25,8,Ready to Move,8,9,8,0,1,1,1,1,1,1,1
+PROP_00474,Pune,Hinjewadi,Tier 1,Penthouse,2,1550,108.29,7,28,13,Under Construction,5,7,4,1,1,1,1,1,1,0,0
+PROP_00475,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,2,1177,103.9,2,15,7,Resale,9,7,4,1,0,1,0,0,1,0,0
+PROP_00476,Bengaluru,HSR Layout,Tier 1,Villa,2,1467,127.41,20,20,0,Ready to Move,4,8,9,1,1,0,1,1,1,1,0
+PROP_00477,Indore,Super Corridor,Tier 2,Apartment,2,1448,53.05,3,20,1,Ready to Move,8,6,4,1,1,0,1,0,1,0,1
+PROP_00478,Pune,Hinjewadi,Tier 1,Apartment,3,2025,170.81,1,10,3,Under Construction,6,4,8,1,0,1,0,0,0,1,0
+PROP_00479,Hyderabad,Hitec City,Tier 1,Apartment,3,2191,149.55,9,22,3,Under Construction,7,9,6,1,1,1,0,0,1,0,1
+PROP_00480,Kolkata,New Town,Tier 1,Villa,2,2049,158.08,7,33,13,Under Construction,5,4,6,1,0,1,1,1,1,1,1
+PROP_00481,Kolkata,New Town,Tier 1,Villa,2,3128,285.89,15,27,17,Resale,8,8,5,1,1,1,1,1,1,1,0
+PROP_00482,Bengaluru,Whitefield,Tier 1,Apartment,2,520,38.8,7,33,11,Under Construction,5,6,7,0,1,1,1,1,1,0,0
+PROP_00483,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,557,47.14,22,30,21,Ready to Move,7,8,5,0,0,0,0,1,1,0,0
+PROP_00484,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,3,2610,221.09,10,22,20,Ready to Move,6,4,5,0,1,1,1,1,1,1,1
+PROP_00485,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,1506,77.02,14,35,5,Under Construction,4,8,7,1,0,0,1,1,0,1,1
+PROP_00486,Mumbai,Powai,Tier 1,Apartment,4,2368,443.7,5,28,11,Resale,5,6,4,0,0,1,1,1,0,0,0
+PROP_00487,Bengaluru,Whitefield,Tier 1,Apartment,4,1716,119.06,1,15,8,Ready to Move,8,8,4,1,1,0,1,1,0,1,0
+PROP_00488,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,1248,51.15,4,28,21,Ready to Move,6,7,9,1,1,1,0,1,1,1,0
+PROP_00489,Hyderabad,Hitec City,Tier 1,Apartment,2,2346,155.1,3,8,21,Ready to Move,9,5,8,1,1,1,1,1,1,1,1
+PROP_00490,Kochi,Kakkanad (Infopark),Tier 2,Apartment,1,2037,80.9,7,7,0,Ready to Move,6,8,4,1,1,0,1,0,1,1,0
+PROP_00491,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,2388,124.51,8,31,18,Resale,4,6,6,1,1,1,1,1,1,1,1
+PROP_00492,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2293,91.98,5,5,7,Ready to Move,5,4,6,1,1,1,1,1,1,1,1
+PROP_00493,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,1,801,31.02,6,9,6,Resale,6,4,6,1,1,0,1,0,1,1,1
+PROP_00494,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1324,97.12,3,5,11,Resale,7,5,4,0,0,1,1,1,0,0,0
+PROP_00495,Mumbai,Powai,Tier 1,Apartment,2,2299,495.97,8,16,1,Ready to Move,7,6,6,0,0,1,1,1,0,1,1
+PROP_00496,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,490,22.11,4,15,21,Under Construction,4,5,7,1,1,0,1,1,1,1,1
+PROP_00497,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2290,189.88,11,9,13,Ready to Move,8,7,5,1,1,1,1,0,1,0,1
+PROP_00498,Mumbai,Andheri West,Tier 1,Apartment,3,2494,498.11,22,32,17,Resale,8,6,4,1,1,1,1,1,1,0,1
+PROP_00499,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1610,76.47,1,9,20,Ready to Move,8,7,4,1,1,1,0,1,1,0,0
+PROP_00500,Kochi,Kakkanad (Infopark),Tier 2,Independent House,2,1362,66.4,27,27,3,Under Construction,7,7,9,1,1,0,1,1,1,1,0
+PROP_00501,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1439,51.47,1,29,11,Under Construction,6,5,8,1,0,1,1,1,1,1,1
+PROP_00502,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,3,2049,190.7,5,14,5,Resale,5,4,9,1,1,1,1,1,1,0,1
+PROP_00503,Kolkata,New Town,Tier 1,Apartment,2,831,55.3,9,30,19,Ready to Move,8,7,4,1,0,1,1,1,1,1,0
+PROP_00504,Pune,Hinjewadi,Tier 1,Penthouse,3,1998,173.55,1,6,0,Ready to Move,4,7,8,0,0,0,1,0,1,1,0
+PROP_00505,Mumbai,Andheri West,Tier 1,Apartment,3,539,98.52,4,34,21,Resale,7,6,9,1,1,0,0,1,1,1,0
+PROP_00506,Kolkata,New Town,Tier 1,Apartment,2,2432,227.63,5,3,3,Ready to Move,8,4,8,0,1,0,1,0,1,1,0
+PROP_00507,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,2,1570,122.77,8,8,9,Resale,9,7,7,1,0,0,1,1,1,0,1
+PROP_00508,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,2,1293,119.43,28,34,19,Under Construction,6,8,4,1,1,1,1,1,0,0,0
+PROP_00509,Pune,Wakad,Tier 1,Apartment,3,2128,154.4,3,25,10,Resale,5,6,5,0,1,1,1,0,1,0,0
+PROP_00510,Lucknow,Gomti Nagar Extension,Tier 2,Villa,3,1767,89.76,3,7,6,Ready to Move,8,6,9,1,1,1,0,1,1,1,0
+PROP_00511,Kolkata,New Town,Tier 1,Independent House,2,1257,82.01,17,34,3,Ready to Move,7,5,8,1,0,1,1,1,1,1,1
+PROP_00512,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,2099,136.14,0,5,15,Ready to Move,7,9,6,0,1,1,1,1,1,1,1
+PROP_00513,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,3075,159.74,9,10,0,Ready to Move,4,4,5,0,0,1,1,1,0,1,1
+PROP_00514,Bengaluru,Whitefield,Tier 1,Apartment,3,665,47.57,4,5,8,Under Construction,9,8,7,0,0,0,1,0,1,1,1
+PROP_00515,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2280,106.99,15,18,10,Resale,5,4,6,1,1,1,1,1,1,1,1
+PROP_00516,Mumbai,Powai,Tier 1,Apartment,3,696,117.14,12,16,15,Ready to Move,6,5,8,1,1,0,1,1,1,1,0
+PROP_00517,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,2,1939,146.04,12,31,6,Ready to Move,6,7,5,1,1,1,1,1,0,0,0
+PROP_00518,Lucknow,Gomti Nagar Extension,Tier 2,Villa,2,1542,55.79,7,31,2,Under Construction,7,5,5,1,1,0,1,1,0,1,1
+PROP_00519,Hyderabad,Gachibowli,Tier 1,Villa,2,1225,92.89,15,20,13,Ready to Move,9,4,9,0,0,0,1,1,1,1,0
+PROP_00520,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,2059,77.01,5,20,11,Under Construction,9,8,6,1,0,1,1,1,1,1,0
+PROP_00521,Kolkata,New Town,Tier 1,Apartment,3,734,50.46,4,24,21,Resale,7,6,4,0,0,0,1,1,1,1,1
+PROP_00522,Indore,Super Corridor,Tier 2,Penthouse,4,1463,63.84,4,5,9,Ready to Move,8,8,5,1,1,0,1,1,1,1,1
+PROP_00523,Indore,Super Corridor,Tier 2,Villa,2,1942,84.3,10,25,21,Resale,4,6,9,1,1,0,1,1,1,1,0
+PROP_00524,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,2,1295,62.43,12,15,3,Under Construction,9,9,8,1,1,1,1,1,1,1,1
+PROP_00525,Kochi,Kakkanad (Infopark),Tier 2,Independent House,2,1716,66.76,3,24,14,Under Construction,6,4,4,1,1,1,1,1,1,1,0
+PROP_00526,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,1,1657,106.41,4,5,1,Resale,6,4,7,1,1,0,1,1,1,1,1
+PROP_00527,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,1,1558,105.99,2,15,7,Ready to Move,7,6,5,1,1,1,1,0,1,1,0
+PROP_00528,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1770,87.11,3,11,4,Resale,8,5,6,1,0,1,1,1,1,1,0
+PROP_00529,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,1733,76.54,13,25,13,Resale,7,4,8,0,1,0,1,1,1,1,1
+PROP_00530,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,1,2058,138.97,3,3,2,Ready to Move,6,9,4,1,0,0,1,1,0,1,1
+PROP_00531,Bengaluru,HSR Layout,Tier 1,Apartment,3,1289,102.14,9,34,20,Under Construction,9,4,7,1,0,0,1,1,1,0,0
+PROP_00532,Bengaluru,Whitefield,Tier 1,Independent House,4,2521,194.28,2,6,15,Ready to Move,5,8,6,1,1,1,1,1,1,0,1
+PROP_00533,Pune,Hinjewadi,Tier 1,Apartment,2,2545,218.87,9,15,21,Ready to Move,8,7,6,1,0,1,1,1,1,0,1
+PROP_00534,Jaipur,Vaishali Nagar,Tier 2,Apartment,1,2827,115.3,22,31,14,Resale,6,4,5,1,1,1,1,1,1,0,1
+PROP_00535,Ahmedabad,SG Highway,Tier 1,Apartment,3,2756,203.75,10,11,12,Ready to Move,9,7,7,1,1,0,1,1,1,0,1
+PROP_00536,Ahmedabad,SG Highway,Tier 1,Apartment,3,2979,264.08,2,7,3,Ready to Move,7,9,7,1,0,1,1,1,0,1,1
+PROP_00537,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2170,111.1,0,6,2,Resale,6,8,9,1,1,0,1,1,1,1,0
+PROP_00538,Pune,Wakad,Tier 1,Independent House,3,2242,188.59,5,17,16,Ready to Move,4,8,4,1,1,0,1,1,1,1,1
+PROP_00539,Mumbai,Powai,Tier 1,Villa,2,1209,244.38,13,34,15,Under Construction,6,8,8,1,1,1,1,1,1,0,1
+PROP_00540,Mumbai,Andheri West,Tier 1,Apartment,1,2492,422.65,26,24,8,Resale,9,6,4,1,0,0,1,1,1,1,0
+PROP_00541,Bengaluru,HSR Layout,Tier 1,Apartment,3,904,73.43,1,19,13,Under Construction,5,6,4,0,1,1,1,1,1,0,0
+PROP_00542,Bengaluru,HSR Layout,Tier 1,Apartment,2,739,68.17,7,8,8,Ready to Move,4,4,7,1,1,1,1,1,1,0,0
+PROP_00543,Hyderabad,Gachibowli,Tier 1,Independent House,3,2940,263.3,0,4,12,Ready to Move,7,9,7,1,0,0,1,1,1,1,1
+PROP_00544,Pune,Hinjewadi,Tier 1,Villa,2,826,67.24,17,17,1,Ready to Move,9,5,4,0,0,0,0,1,1,0,0
+PROP_00545,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,3143,118.67,8,7,15,Under Construction,5,7,9,1,0,1,1,1,1,1,1
+PROP_00546,Mumbai,Andheri West,Tier 1,Apartment,1,1869,407.13,13,34,16,Ready to Move,6,9,8,0,0,1,1,1,1,1,1
+PROP_00547,Mumbai,Andheri West,Tier 1,Apartment,1,2493,531.55,12,20,2,Ready to Move,6,8,7,1,1,1,0,1,0,1,0
+PROP_00548,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,1,2668,231.16,2,4,18,Ready to Move,4,6,9,1,1,1,1,1,0,0,1
+PROP_00549,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,4,2640,205.01,12,19,7,Ready to Move,4,6,9,1,0,0,1,1,1,1,1
+PROP_00550,Pune,Wakad,Tier 1,Penthouse,4,3124,275.09,4,3,10,Under Construction,5,7,7,0,0,0,1,1,1,1,1
+PROP_00551,Mumbai,Powai,Tier 1,Apartment,2,2949,568.28,4,7,8,Resale,5,5,9,0,1,1,1,1,0,1,1
+PROP_00552,Kolkata,New Town,Tier 1,Apartment,1,2716,231.6,2,6,0,Under Construction,8,9,4,1,0,0,1,1,1,1,1
+PROP_00553,Kochi,Kakkanad (Infopark),Tier 2,Villa,1,3079,131.98,10,21,11,Under Construction,7,9,6,1,1,1,1,0,1,1,0
+PROP_00554,Hyderabad,Gachibowli,Tier 1,Apartment,4,1732,136.96,22,35,12,Ready to Move,9,9,5,1,1,0,0,1,1,1,1
+PROP_00555,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,946,47.24,5,6,16,Resale,6,6,5,1,0,0,1,1,1,1,1
+PROP_00556,Mumbai,Andheri West,Tier 1,Villa,3,1437,265.9,11,29,16,Ready to Move,6,9,7,1,1,1,1,1,0,1,1
+PROP_00557,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2845,133.39,10,19,3,Ready to Move,7,7,8,1,1,1,1,1,1,0,0
+PROP_00558,Pune,Wakad,Tier 1,Apartment,4,2721,231.53,8,33,13,Ready to Move,9,5,4,0,1,1,1,1,1,1,1
+PROP_00559,Mumbai,Andheri West,Tier 1,Apartment,2,1828,357.53,0,9,11,Resale,7,9,7,1,1,1,1,1,1,1,1
+PROP_00560,Mumbai,Powai,Tier 1,Independent House,2,481,94.15,14,26,10,Resale,5,8,9,1,1,0,1,1,1,1,1
+PROP_00561,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,2,1772,74.69,0,14,6,Resale,8,6,8,1,0,0,1,1,1,0,0
+PROP_00562,Pune,Wakad,Tier 1,Villa,3,884,80.87,6,20,16,Ready to Move,4,8,4,1,1,1,0,1,0,0,1
+PROP_00563,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,2272,100.99,7,32,22,Ready to Move,7,7,7,0,1,1,1,0,1,0,1
+PROP_00564,Mumbai,Powai,Tier 1,Penthouse,2,1091,206.75,16,20,2,Under Construction,4,7,4,1,1,0,1,1,1,0,1
+PROP_00565,Bengaluru,Whitefield,Tier 1,Independent House,2,1010,82.15,8,17,4,Resale,5,9,7,0,0,1,1,1,1,0,0
+PROP_00566,Hyderabad,Gachibowli,Tier 1,Apartment,3,1179,76.53,18,19,20,Under Construction,7,8,9,1,1,1,1,1,1,1,1
+PROP_00567,Indore,Super Corridor,Tier 2,Apartment,2,845,33.27,14,21,7,Resale,4,5,7,1,1,0,1,0,1,1,1
+PROP_00568,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1411,51.06,13,20,17,Under Construction,6,9,6,1,1,1,1,0,1,0,1
+PROP_00569,Bengaluru,HSR Layout,Tier 1,Penthouse,2,2283,173.61,12,13,3,Under Construction,5,8,8,0,1,1,0,1,1,1,1
+PROP_00570,Bengaluru,HSR Layout,Tier 1,Penthouse,3,1312,97.89,12,15,7,Under Construction,5,6,6,1,1,0,0,1,1,1,1
+PROP_00571,Indore,Super Corridor,Tier 2,Apartment,1,1092,44.18,1,4,8,Ready to Move,7,9,7,0,1,0,0,0,1,1,1
+PROP_00572,Bengaluru,Whitefield,Tier 1,Independent House,3,2668,218.5,9,12,6,Under Construction,6,7,8,1,0,1,0,1,1,1,1
+PROP_00573,Pune,Hinjewadi,Tier 1,Villa,3,2747,198.08,17,21,7,Resale,4,7,9,1,0,1,1,1,1,1,0
+PROP_00574,Ahmedabad,SG Highway,Tier 1,Apartment,3,2756,184.7,20,22,3,Ready to Move,5,7,8,0,0,1,1,1,1,0,1
+PROP_00575,Pune,Wakad,Tier 1,Villa,3,1725,148.29,11,12,19,Resale,4,6,9,0,1,1,1,1,1,1,1
+PROP_00576,Mumbai,Powai,Tier 1,Apartment,1,2193,445.94,0,27,16,Ready to Move,5,5,7,1,0,1,1,1,1,0,1
+PROP_00577,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,487,19.81,23,30,8,Under Construction,8,6,8,1,0,1,1,1,1,1,0
+PROP_00578,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,2,1802,92.4,11,11,0,Under Construction,7,5,5,1,1,0,1,1,0,1,0
+PROP_00579,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,1090,40.14,0,17,8,Under Construction,7,8,9,1,1,1,1,1,1,0,0
+PROP_00580,Hyderabad,Gachibowli,Tier 1,Villa,2,1180,84.53,8,9,20,Resale,6,8,8,1,1,1,1,1,1,0,0
+PROP_00581,Hyderabad,Gachibowli,Tier 1,Apartment,1,2968,202.25,0,13,2,Ready to Move,5,8,7,1,1,0,1,1,1,1,1
+PROP_00582,Ahmedabad,SG Highway,Tier 1,Apartment,2,2588,189.59,3,8,20,Under Construction,9,5,7,1,1,1,1,1,1,1,0
+PROP_00583,Ahmedabad,SG Highway,Tier 1,Villa,4,2359,204.93,6,25,17,Ready to Move,7,6,5,1,1,0,1,1,1,1,1
+PROP_00584,Pune,Wakad,Tier 1,Independent House,3,503,41.22,5,5,12,Ready to Move,9,9,6,0,0,1,0,1,1,1,1
+PROP_00585,Hyderabad,Hitec City,Tier 1,Villa,3,3102,267.6,0,9,22,Ready to Move,9,9,5,1,0,1,1,0,1,0,0
+PROP_00586,Pune,Wakad,Tier 1,Penthouse,4,1245,103.84,2,4,5,Under Construction,8,4,9,1,1,1,0,1,1,1,0
+PROP_00587,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,1578,72.47,0,35,8,Under Construction,4,6,7,1,1,1,1,0,0,1,0
+PROP_00588,Bengaluru,Whitefield,Tier 1,Apartment,4,1143,99.91,14,16,7,Under Construction,9,9,5,1,1,0,1,1,1,1,1
+PROP_00589,Hyderabad,Gachibowli,Tier 1,Apartment,2,1266,87.43,14,21,2,Resale,6,8,6,1,1,1,1,1,0,1,1
+PROP_00590,Hyderabad,Gachibowli,Tier 1,Villa,3,2227,165.15,16,21,8,Ready to Move,8,5,6,0,0,1,1,1,1,1,0
+PROP_00591,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,2860,145.41,20,23,0,Ready to Move,7,7,6,1,1,0,1,1,1,1,1
+PROP_00592,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,2809,133.06,7,28,11,Under Construction,7,9,7,1,1,1,1,1,1,1,1
+PROP_00593,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,566,21.77,9,13,16,Ready to Move,8,5,5,1,1,0,0,1,0,1,1
+PROP_00594,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,3147,120.15,1,14,7,Ready to Move,7,4,9,0,1,1,1,1,1,1,1
+PROP_00595,Hyderabad,Gachibowli,Tier 1,Independent House,3,3187,239.15,6,32,4,Under Construction,5,7,6,1,1,1,1,1,0,1,1
+PROP_00596,Bengaluru,Whitefield,Tier 1,Villa,2,2942,203.28,10,18,0,Resale,4,9,5,0,0,0,1,1,1,1,0
+PROP_00597,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,2418,87.74,25,29,16,Ready to Move,7,4,6,1,0,1,1,0,1,1,1
+PROP_00598,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,2441,113.96,1,28,13,Under Construction,9,9,4,1,1,1,1,1,1,1,1
+PROP_00599,Hyderabad,Hitec City,Tier 1,Penthouse,3,2627,227.34,5,8,18,Under Construction,5,8,8,1,1,0,1,0,1,1,1
+PROP_00600,Ahmedabad,SG Highway,Tier 1,Villa,2,2193,162.01,0,21,8,Ready to Move,6,6,7,0,0,1,1,1,0,1,0
+PROP_00601,Mumbai,Powai,Tier 1,Apartment,3,837,135.66,6,12,11,Resale,9,8,5,1,1,1,1,1,0,1,0
+PROP_00602,Mumbai,Andheri West,Tier 1,Independent House,3,2549,569.9,4,8,12,Ready to Move,5,9,6,1,1,0,1,1,1,1,1
+PROP_00603,Pune,Hinjewadi,Tier 1,Apartment,3,650,48.74,27,33,22,Ready to Move,6,8,9,0,0,0,1,0,1,1,1
+PROP_00604,Pune,Wakad,Tier 1,Apartment,2,2344,191.56,7,23,22,Under Construction,5,4,8,0,1,1,1,1,1,1,1
+PROP_00605,Bengaluru,Whitefield,Tier 1,Apartment,2,1845,135.31,31,31,17,Ready to Move,9,7,6,1,1,1,0,1,1,0,1
+PROP_00606,Ahmedabad,SG Highway,Tier 1,Apartment,2,1645,141.92,1,31,19,Ready to Move,8,6,8,1,1,0,1,1,1,0,1
+PROP_00607,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2936,270.74,3,10,3,Under Construction,5,5,9,1,1,1,1,1,1,1,1
+PROP_00608,Kolkata,New Town,Tier 1,Independent House,3,2643,210.71,15,17,9,Resale,5,5,7,0,1,0,1,1,1,1,1
+PROP_00609,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,1223,56.74,19,17,2,Resale,4,6,8,0,1,1,0,1,1,1,1
+PROP_00610,Hyderabad,Gachibowli,Tier 1,Apartment,4,1111,86.08,6,18,4,Under Construction,4,4,5,1,1,1,1,1,0,1,1
+PROP_00611,Kolkata,New Town,Tier 1,Penthouse,4,1102,78.35,0,7,21,Resale,8,7,7,0,1,0,1,0,1,1,1
+PROP_00612,Bengaluru,Whitefield,Tier 1,Penthouse,3,2419,214.28,3,6,1,Under Construction,7,9,8,1,1,1,1,1,1,1,1
+PROP_00613,Hyderabad,Hitec City,Tier 1,Independent House,2,2141,178.66,12,12,6,Under Construction,4,6,9,1,1,1,1,1,1,1,0
+PROP_00614,Lucknow,Gomti Nagar Extension,Tier 2,Villa,3,1506,68.14,1,5,9,Ready to Move,5,6,8,1,0,1,1,1,1,1,0
+PROP_00615,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,2938,213.06,7,27,6,Under Construction,5,8,4,0,1,1,1,1,1,0,0
+PROP_00616,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,3,2502,183.09,15,26,5,Resale,5,7,7,0,1,0,1,1,1,1,1
+PROP_00617,Hyderabad,Gachibowli,Tier 1,Penthouse,2,2493,193.28,1,3,6,Under Construction,9,4,7,1,1,1,1,1,1,1,0
+PROP_00618,Bengaluru,HSR Layout,Tier 1,Penthouse,3,2771,220.12,5,18,20,Ready to Move,5,9,9,1,0,1,1,0,0,1,0
+PROP_00619,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,3,1690,110.82,15,17,3,Ready to Move,6,9,4,0,0,0,1,1,1,1,1
+PROP_00620,Kochi,Kakkanad (Infopark),Tier 2,Villa,4,906,43.3,12,31,20,Resale,4,6,7,1,1,0,1,1,1,0,1
+PROP_00621,Pune,Hinjewadi,Tier 1,Apartment,2,1577,132.6,28,35,5,Resale,4,6,8,1,0,0,1,1,1,1,1
+PROP_00622,Hyderabad,Hitec City,Tier 1,Apartment,2,895,77.54,9,16,16,Resale,4,9,6,1,0,1,1,1,1,0,0
+PROP_00623,Hyderabad,Hitec City,Tier 1,Apartment,2,2565,239.02,8,29,8,Resale,6,6,5,1,1,1,1,1,1,1,0
+PROP_00624,Jaipur,Vaishali Nagar,Tier 2,Apartment,1,2124,88.44,4,11,22,Ready to Move,5,9,9,0,1,0,1,1,1,1,1
+PROP_00625,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,4,1572,58.94,15,18,18,Resale,4,9,7,1,1,1,1,1,1,0,1
+PROP_00626,Pune,Wakad,Tier 1,Penthouse,3,1963,150.94,4,21,2,Under Construction,9,7,5,1,1,1,1,1,1,1,1
+PROP_00627,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,539,36.63,5,7,14,Ready to Move,5,6,7,0,0,0,1,1,1,1,0
+PROP_00628,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,2073,102.08,0,6,11,Ready to Move,8,7,4,1,1,0,1,1,1,0,0
+PROP_00629,Mumbai,Powai,Tier 1,Villa,3,910,174.07,5,35,14,Ready to Move,4,9,7,1,1,1,1,1,1,0,1
+PROP_00630,Lucknow,Gomti Nagar Extension,Tier 2,Villa,3,2221,112.48,0,28,12,Ready to Move,4,5,6,1,0,0,1,1,1,1,1
+PROP_00631,Ahmedabad,SG Highway,Tier 1,Apartment,3,2812,192.14,2,12,0,Ready to Move,5,8,6,1,0,0,1,1,1,1,0
+PROP_00632,Hyderabad,Gachibowli,Tier 1,Apartment,4,1905,123.0,24,31,14,Ready to Move,7,4,7,1,0,1,1,0,1,1,1
+PROP_00633,Mumbai,Andheri West,Tier 1,Penthouse,2,1308,211.46,22,34,10,Resale,5,5,4,1,0,0,1,1,0,1,1
+PROP_00634,Mumbai,Andheri West,Tier 1,Apartment,2,1926,425.82,4,7,22,Ready to Move,9,9,7,1,0,1,1,1,0,1,0
+PROP_00635,Bengaluru,Whitefield,Tier 1,Villa,2,2574,176.12,3,33,6,Under Construction,6,8,7,1,1,0,1,1,1,1,1
+PROP_00636,Mumbai,Andheri West,Tier 1,Apartment,4,1115,173.0,11,16,19,Under Construction,4,4,6,0,1,1,1,1,1,1,1
+PROP_00637,Hyderabad,Hitec City,Tier 1,Apartment,2,860,55.21,2,17,15,Resale,7,8,7,0,1,1,1,1,1,0,1
+PROP_00638,Ahmedabad,SG Highway,Tier 1,Apartment,3,3187,271.66,12,33,7,Ready to Move,5,5,9,0,0,1,1,0,1,0,1
+PROP_00639,Kolkata,New Town,Tier 1,Apartment,3,2342,196.26,4,20,13,Under Construction,9,5,8,1,1,1,1,1,1,1,0
+PROP_00640,Bengaluru,HSR Layout,Tier 1,Independent House,4,1424,97.7,15,23,11,Ready to Move,9,8,7,1,0,1,1,0,1,1,1
+PROP_00641,Kolkata,New Town,Tier 1,Penthouse,2,1495,110.6,29,34,3,Under Construction,8,6,4,1,1,0,1,0,1,1,0
+PROP_00642,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,1873,136.66,30,30,16,Ready to Move,7,8,5,0,1,1,1,1,1,1,1
+PROP_00643,Bengaluru,HSR Layout,Tier 1,Apartment,4,2633,196.5,16,17,11,Ready to Move,4,9,5,1,1,0,1,1,1,1,1
+PROP_00644,Hyderabad,Gachibowli,Tier 1,Villa,2,650,60.14,28,28,13,Resale,7,6,5,1,0,0,1,1,1,1,1
+PROP_00645,Mumbai,Powai,Tier 1,Independent House,1,2130,347.41,15,33,5,Resale,7,8,5,0,0,0,1,0,1,1,1
+PROP_00646,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,2,2266,154.14,0,20,3,Under Construction,8,4,9,1,0,1,1,1,1,0,1
+PROP_00647,Kolkata,New Town,Tier 1,Independent House,2,617,46.4,14,19,18,Ready to Move,9,9,7,1,0,0,1,1,1,1,1
+PROP_00648,Indore,Super Corridor,Tier 2,Penthouse,4,2221,95.02,4,9,8,Under Construction,9,8,6,1,1,1,0,0,1,0,1
+PROP_00649,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,1538,57.59,24,34,16,Resale,4,8,4,1,1,1,1,0,1,1,1
+PROP_00650,Kochi,Kakkanad (Infopark),Tier 2,Independent House,4,2062,98.5,3,5,18,Ready to Move,7,9,9,1,1,0,1,0,1,0,1
+PROP_00651,Bengaluru,Whitefield,Tier 1,Apartment,3,2320,207.02,11,19,7,Under Construction,7,4,6,1,1,0,1,1,1,1,0
+PROP_00652,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,1877,91.64,13,14,10,Under Construction,8,8,9,1,1,0,1,1,0,1,1
+PROP_00653,Hyderabad,Hitec City,Tier 1,Apartment,4,2017,140.82,28,34,5,Ready to Move,6,4,4,0,0,1,1,1,1,0,1
+PROP_00654,Mumbai,Powai,Tier 1,Penthouse,2,832,132.72,4,28,10,Under Construction,7,5,7,0,1,1,1,1,1,0,1
+PROP_00655,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,4,617,24.58,4,12,15,Ready to Move,9,5,5,1,1,1,1,1,1,1,1
+PROP_00656,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,2728,122.65,12,15,18,Resale,9,6,9,1,0,1,1,1,1,0,1
+PROP_00657,Mumbai,Powai,Tier 1,Apartment,3,1000,176.16,18,18,3,Resale,8,6,4,1,1,1,1,1,1,1,1
+PROP_00658,Bengaluru,HSR Layout,Tier 1,Apartment,3,2984,229.43,10,30,17,Resale,8,9,4,1,1,1,0,1,1,0,0
+PROP_00659,Bengaluru,Whitefield,Tier 1,Penthouse,3,2898,227.42,3,11,14,Under Construction,8,9,9,1,0,1,1,1,1,1,1
+PROP_00660,Bengaluru,Whitefield,Tier 1,Apartment,3,666,56.69,24,25,19,Ready to Move,8,7,9,0,0,1,1,1,1,0,1
+PROP_00661,Mumbai,Andheri West,Tier 1,Independent House,2,814,130.06,21,28,13,Resale,9,7,5,1,0,0,1,1,1,0,0
+PROP_00662,Hyderabad,Gachibowli,Tier 1,Villa,2,1888,176.19,1,8,8,Ready to Move,8,4,8,0,0,0,1,1,0,1,0
+PROP_00663,Ahmedabad,SG Highway,Tier 1,Apartment,4,734,67.84,15,15,17,Ready to Move,6,4,9,1,1,1,1,1,1,0,0
+PROP_00664,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,1,2998,108.98,4,10,3,Under Construction,9,5,8,1,1,1,1,1,1,1,1
+PROP_00665,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2284,117.76,5,7,7,Resale,5,7,4,1,1,1,1,1,1,1,0
+PROP_00666,Mumbai,Powai,Tier 1,Apartment,3,3132,551.48,20,28,9,Under Construction,5,7,5,0,1,1,1,1,1,1,1
+PROP_00667,Jaipur,Vaishali Nagar,Tier 2,Villa,2,2488,130.3,1,21,1,Ready to Move,4,6,8,1,1,0,1,0,0,1,1
+PROP_00668,Ahmedabad,SG Highway,Tier 1,Apartment,3,664,58.74,16,30,16,Under Construction,9,9,4,1,0,1,1,1,0,0,0
+PROP_00669,Bengaluru,Whitefield,Tier 1,Apartment,1,2012,140.7,0,10,21,Under Construction,5,7,5,1,1,0,1,1,1,1,1
+PROP_00670,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,2,3126,268.36,0,20,13,Resale,6,5,7,0,0,1,0,1,0,1,0
+PROP_00671,Mumbai,Andheri West,Tier 1,Apartment,1,1100,239.76,34,34,5,Under Construction,9,9,9,1,1,0,1,0,0,1,1
+PROP_00672,Mumbai,Powai,Tier 1,Apartment,3,2489,416.8,0,5,7,Ready to Move,7,5,4,1,1,0,1,1,0,1,0
+PROP_00673,Hyderabad,Gachibowli,Tier 1,Apartment,4,1311,112.09,1,5,8,Ready to Move,6,7,5,1,0,1,1,1,1,1,0
+PROP_00674,Lucknow,Gomti Nagar Extension,Tier 2,Villa,1,2254,83.1,9,18,5,Ready to Move,8,6,4,0,0,1,0,1,1,1,0
+PROP_00675,Mumbai,Andheri West,Tier 1,Villa,3,1407,215.87,3,3,3,Ready to Move,9,4,8,1,0,1,1,1,1,1,1
+PROP_00676,Pune,Hinjewadi,Tier 1,Independent House,3,2459,201.95,20,25,15,Ready to Move,7,8,6,0,0,1,1,1,1,0,1
+PROP_00677,Kochi,Kakkanad (Infopark),Tier 2,Independent House,4,1678,63.96,14,32,4,Under Construction,5,7,7,1,1,1,1,1,1,1,0
+PROP_00678,Hyderabad,Gachibowli,Tier 1,Independent House,2,1338,113.9,11,15,17,Resale,6,9,6,0,0,0,1,1,1,1,1
+PROP_00679,Bengaluru,HSR Layout,Tier 1,Independent House,2,1339,98.93,8,13,5,Resale,4,9,5,1,1,0,1,1,0,1,1
+PROP_00680,Hyderabad,Gachibowli,Tier 1,Independent House,2,2134,156.3,4,18,10,Ready to Move,9,4,4,0,0,1,0,1,1,1,0
+PROP_00681,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Villa,2,1709,152.05,10,26,14,Resale,6,9,5,0,0,1,1,1,1,1,1
+PROP_00682,Hyderabad,Hitec City,Tier 1,Apartment,3,2712,224.04,7,20,21,Ready to Move,7,4,4,0,0,1,1,0,1,1,1
+PROP_00683,Hyderabad,Hitec City,Tier 1,Apartment,3,531,49.31,2,25,2,Ready to Move,5,8,6,1,1,0,1,1,0,1,0
+PROP_00684,Mumbai,Powai,Tier 1,Apartment,2,2919,653.32,26,34,11,Under Construction,5,8,6,1,1,0,1,1,1,1,0
+PROP_00685,Kochi,Kakkanad (Infopark),Tier 2,Villa,2,615,24.77,21,32,1,Ready to Move,8,4,9,1,0,0,1,1,1,0,1
+PROP_00686,Ahmedabad,SG Highway,Tier 1,Apartment,4,2549,227.78,10,30,11,Under Construction,8,5,7,0,0,1,1,1,1,1,1
+PROP_00687,Bengaluru,Whitefield,Tier 1,Apartment,4,976,85.83,2,9,2,Ready to Move,8,5,4,1,0,0,1,1,1,0,1
+PROP_00688,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,1805,88.28,0,9,4,Ready to Move,9,4,5,0,1,0,1,1,0,0,0
+PROP_00689,Hyderabad,Gachibowli,Tier 1,Independent House,3,1258,106.93,11,34,9,Ready to Move,7,5,8,0,0,0,1,1,1,1,1
+PROP_00690,Mumbai,Powai,Tier 1,Apartment,2,1216,260.35,18,17,19,Resale,8,9,6,0,0,0,1,0,1,1,0
+PROP_00691,Hyderabad,Hitec City,Tier 1,Villa,1,702,46.07,1,25,13,Ready to Move,9,9,7,0,1,0,1,1,1,1,1
+PROP_00692,Mumbai,Powai,Tier 1,Independent House,3,1524,312.96,23,23,11,Resale,6,7,6,1,1,0,1,1,1,1,0
+PROP_00693,Jaipur,Vaishali Nagar,Tier 2,Independent House,3,2352,101.83,6,12,0,Ready to Move,6,7,9,0,0,1,1,1,0,1,0
+PROP_00694,Bengaluru,Whitefield,Tier 1,Independent House,3,2384,162.7,15,24,5,Under Construction,8,6,5,0,1,1,1,1,1,1,1
+PROP_00695,Mumbai,Andheri West,Tier 1,Independent House,1,1774,361.6,16,21,6,Resale,7,4,6,1,0,0,1,1,1,1,0
+PROP_00696,Ahmedabad,SG Highway,Tier 1,Apartment,4,974,72.89,28,33,13,Ready to Move,5,6,9,0,1,0,1,1,1,1,1
+PROP_00697,Kolkata,New Town,Tier 1,Apartment,3,1246,113.14,18,23,22,Ready to Move,5,7,8,1,0,1,0,1,1,0,1
+PROP_00698,Pune,Wakad,Tier 1,Penthouse,1,2291,172.83,8,15,4,Under Construction,4,7,5,0,0,1,1,1,1,1,1
+PROP_00699,Kolkata,New Town,Tier 1,Apartment,3,2646,184.56,3,15,1,Ready to Move,8,8,6,0,0,1,1,1,1,0,0
+PROP_00700,Kochi,Kakkanad (Infopark),Tier 2,Villa,1,1959,85.24,6,12,5,Resale,6,4,6,1,0,1,1,1,1,0,0
+PROP_00701,Kolkata,New Town,Tier 1,Villa,3,2404,179.85,12,23,0,Resale,9,6,7,0,1,1,1,1,1,0,1
+PROP_00702,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,711,65.1,8,11,22,Ready to Move,4,6,6,1,1,1,1,1,1,1,1
+PROP_00703,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,816,71.96,16,31,7,Ready to Move,9,9,8,0,1,1,1,0,1,1,1
+PROP_00704,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1758,129.1,24,28,15,Ready to Move,9,9,9,1,0,0,0,1,1,1,0
+PROP_00705,Ahmedabad,SG Highway,Tier 1,Penthouse,3,1122,84.9,10,12,19,Under Construction,6,8,6,1,0,0,1,1,1,0,0
+PROP_00706,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,568,43.8,13,35,3,Ready to Move,7,4,9,1,0,1,1,1,1,0,1
+PROP_00707,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,2349,153.58,8,17,16,Ready to Move,6,4,5,1,1,0,1,1,1,1,1
+PROP_00708,Hyderabad,Hitec City,Tier 1,Apartment,3,2416,194.67,21,21,2,Ready to Move,4,4,8,0,0,0,0,1,1,1,0
+PROP_00709,Ahmedabad,SG Highway,Tier 1,Apartment,2,3095,215.02,11,30,8,Resale,9,4,6,1,1,0,1,1,1,1,0
+PROP_00710,Bengaluru,Whitefield,Tier 1,Villa,3,1165,74.77,7,8,22,Under Construction,6,4,9,1,0,1,1,1,1,0,1
+PROP_00711,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,1166,60.68,2,5,9,Resale,5,6,4,1,1,0,1,1,1,0,1
+PROP_00712,Kochi,Kakkanad (Infopark),Tier 2,Villa,3,2451,120.11,0,6,11,Resale,7,8,5,1,1,1,1,1,1,1,1
+PROP_00713,Ahmedabad,SG Highway,Tier 1,Independent House,3,1873,162.52,12,12,21,Resale,6,7,4,1,1,0,1,1,1,1,0
+PROP_00714,Bengaluru,HSR Layout,Tier 1,Penthouse,2,2524,230.44,8,12,5,Ready to Move,5,9,7,0,1,0,1,0,0,0,1
+PROP_00715,Hyderabad,Hitec City,Tier 1,Penthouse,3,1378,116.12,10,24,11,Resale,8,9,7,0,0,1,1,0,1,1,1
+PROP_00716,Hyderabad,Gachibowli,Tier 1,Apartment,3,452,40.93,31,35,2,Under Construction,5,7,6,1,1,0,1,0,0,0,0
+PROP_00717,Mumbai,Powai,Tier 1,Penthouse,1,1488,276.15,5,10,12,Ready to Move,9,8,6,1,0,0,1,1,1,1,1
+PROP_00718,Bengaluru,HSR Layout,Tier 1,Villa,3,1759,130.68,12,19,3,Resale,9,8,8,1,1,1,1,1,1,1,0
+PROP_00719,Pune,Wakad,Tier 1,Apartment,3,827,54.78,5,9,19,Resale,4,6,6,1,1,1,1,0,1,1,1
+PROP_00720,Bengaluru,Whitefield,Tier 1,Villa,3,2270,149.42,11,14,12,Ready to Move,6,8,4,1,1,1,1,1,1,1,0
+PROP_00721,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,4,764,53.27,24,34,20,Ready to Move,7,4,6,0,0,1,1,1,1,1,1
+PROP_00722,Mumbai,Andheri West,Tier 1,Penthouse,2,1020,165.75,2,4,13,Ready to Move,9,8,9,1,1,1,0,1,1,0,0
+PROP_00723,Ahmedabad,SG Highway,Tier 1,Apartment,3,2093,165.27,4,18,0,Ready to Move,4,8,5,1,1,1,1,1,0,1,0
+PROP_00724,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,1,2742,99.72,4,15,22,Resale,4,6,4,1,0,1,1,1,1,1,0
+PROP_00725,Pune,Hinjewadi,Tier 1,Independent House,4,2417,212.18,15,15,6,Ready to Move,5,7,8,1,1,1,1,0,1,1,0
+PROP_00726,Mumbai,Powai,Tier 1,Apartment,3,1124,191.97,11,29,8,Resale,4,7,4,1,1,0,1,1,1,1,1
+PROP_00727,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2968,273.74,10,35,19,Under Construction,7,4,7,1,1,1,1,1,1,0,0
+PROP_00728,Pune,Wakad,Tier 1,Villa,3,3113,273.8,17,24,10,Under Construction,7,8,7,1,1,1,1,1,1,1,1
+PROP_00729,Indore,Super Corridor,Tier 2,Penthouse,2,822,38.89,19,24,2,Under Construction,9,6,6,1,1,0,1,1,1,0,1
+PROP_00730,Hyderabad,Gachibowli,Tier 1,Independent House,4,1822,144.45,19,29,21,Ready to Move,8,5,9,0,1,1,1,1,1,1,0
+PROP_00731,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,3,1461,102.16,20,24,11,Ready to Move,7,7,9,0,1,1,1,1,1,1,1
+PROP_00732,Jaipur,Vaishali Nagar,Tier 2,Villa,1,722,28.07,14,19,18,Under Construction,8,8,7,0,0,1,1,1,1,1,0
+PROP_00733,Hyderabad,Hitec City,Tier 1,Apartment,1,1930,167.05,1,6,3,Under Construction,5,4,9,1,0,1,1,0,1,1,0
+PROP_00734,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,1394,54.93,11,20,4,Ready to Move,8,8,6,1,0,1,1,1,0,0,1
+PROP_00735,Pune,Wakad,Tier 1,Apartment,4,2441,164.74,7,18,14,Ready to Move,5,5,6,0,0,0,1,1,1,0,0
+PROP_00736,Mumbai,Powai,Tier 1,Independent House,3,2269,419.45,24,27,0,Under Construction,5,9,7,1,1,0,0,1,1,1,0
+PROP_00737,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,766,62.64,12,27,6,Under Construction,6,7,6,0,0,0,1,1,0,1,0
+PROP_00738,Mumbai,Powai,Tier 1,Independent House,3,539,97.56,0,25,13,Resale,7,4,7,0,0,1,1,1,0,1,1
+PROP_00739,Hyderabad,Gachibowli,Tier 1,Apartment,4,598,55.69,7,26,22,Ready to Move,4,8,9,1,0,1,1,0,0,1,1
+PROP_00740,Hyderabad,Hitec City,Tier 1,Villa,2,2127,155.48,1,7,1,Ready to Move,6,8,7,1,1,0,1,1,1,0,0
+PROP_00741,Hyderabad,Hitec City,Tier 1,Villa,3,958,83.46,4,26,5,Ready to Move,4,6,5,1,1,0,1,0,0,0,0
+PROP_00742,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,2944,261.36,14,20,22,Ready to Move,9,5,5,1,1,0,1,0,1,1,1
+PROP_00743,Jaipur,Vaishali Nagar,Tier 2,Villa,3,2667,127.75,22,32,18,Resale,6,8,7,0,1,0,0,0,1,1,0
+PROP_00744,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1989,81.02,1,4,6,Resale,9,5,7,1,1,1,1,1,1,0,0
+PROP_00745,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,2,2443,103.6,13,32,4,Resale,4,5,5,1,1,0,0,1,1,1,1
+PROP_00746,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,2549,204.68,3,5,11,Under Construction,5,6,8,0,1,0,1,1,0,0,1
+PROP_00747,Bengaluru,Whitefield,Tier 1,Apartment,3,2102,155.07,20,32,11,Ready to Move,8,8,4,1,1,1,1,1,1,1,1
+PROP_00748,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,4,1997,147.09,17,31,4,Ready to Move,4,8,7,0,0,0,0,0,1,0,1
+PROP_00749,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,2690,217.34,2,16,1,Under Construction,9,7,4,0,1,0,1,0,1,1,0
+PROP_00750,Ahmedabad,SG Highway,Tier 1,Penthouse,4,2370,219.04,17,19,10,Under Construction,8,5,9,1,1,1,1,1,1,0,0
+PROP_00751,Indore,Super Corridor,Tier 2,Apartment,2,1794,92.37,12,22,18,Under Construction,6,4,5,1,1,0,1,1,0,0,1
+PROP_00752,Ahmedabad,SG Highway,Tier 1,Apartment,3,2087,159.3,7,24,19,Resale,9,4,6,1,0,1,1,1,1,1,1
+PROP_00753,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,2,2442,220.08,25,34,6,Resale,7,5,6,0,1,0,1,1,1,0,0
+PROP_00754,Bengaluru,Whitefield,Tier 1,Apartment,2,2663,204.0,2,8,0,Resale,5,4,5,0,1,1,1,1,1,0,0
+PROP_00755,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,859,55.76,0,8,5,Resale,7,4,6,1,1,1,1,1,0,1,0
+PROP_00756,Mumbai,Andheri West,Tier 1,Penthouse,3,2934,496.18,10,21,5,Resale,7,6,8,1,1,1,1,1,1,1,1
+PROP_00757,Hyderabad,Gachibowli,Tier 1,Villa,2,2339,159.55,0,12,3,Ready to Move,4,7,5,0,0,1,1,1,1,1,0
+PROP_00758,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,1309,118.62,3,5,11,Ready to Move,4,4,6,1,1,1,1,1,1,1,1
+PROP_00759,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,1739,90.07,5,14,13,Ready to Move,7,6,5,0,0,1,1,1,1,0,0
+PROP_00760,Bengaluru,Whitefield,Tier 1,Independent House,3,1927,163.97,3,26,16,Ready to Move,5,5,6,1,1,1,1,1,1,1,1
+PROP_00761,Hyderabad,Gachibowli,Tier 1,Apartment,3,611,47.29,14,21,9,Under Construction,4,7,8,1,1,1,1,1,1,1,0
+PROP_00762,Kolkata,New Town,Tier 1,Apartment,4,2870,202.15,1,19,21,Under Construction,7,6,4,1,0,1,1,1,1,1,1
+PROP_00763,Pune,Wakad,Tier 1,Villa,3,2688,247.15,2,4,21,Ready to Move,7,8,5,1,1,1,1,1,1,1,0
+PROP_00764,Hyderabad,Gachibowli,Tier 1,Apartment,1,2209,146.1,0,18,4,Under Construction,5,9,6,1,1,1,1,1,0,1,0
+PROP_00765,Mumbai,Powai,Tier 1,Apartment,1,1087,234.65,0,3,5,Ready to Move,7,6,4,1,1,1,1,1,1,1,1
+PROP_00766,Mumbai,Powai,Tier 1,Penthouse,2,1172,212.05,8,15,0,Ready to Move,4,5,5,1,1,1,1,1,1,1,0
+PROP_00767,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2221,83.15,25,35,5,Ready to Move,8,9,7,1,1,0,1,1,1,1,1
+PROP_00768,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,1769,82.25,1,15,6,Ready to Move,8,6,4,1,1,1,1,1,1,1,0
+PROP_00769,Mumbai,Andheri West,Tier 1,Independent House,3,2582,499.41,7,10,17,Under Construction,4,8,4,1,1,0,1,1,0,0,1
+PROP_00770,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,1507,132.95,6,12,16,Under Construction,4,7,6,1,1,0,1,1,0,0,1
+PROP_00771,Mumbai,Andheri West,Tier 1,Apartment,2,914,146.1,10,19,5,Ready to Move,8,4,5,0,0,1,1,1,0,1,1
+PROP_00772,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,3144,228.49,1,28,13,Ready to Move,9,6,6,1,0,0,1,0,1,0,1
+PROP_00773,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,887,35.6,5,18,20,Ready to Move,9,4,7,0,1,0,1,1,1,1,0
+PROP_00774,Pune,Wakad,Tier 1,Villa,3,1218,95.65,6,18,21,Resale,5,8,6,1,1,1,1,1,1,1,0
+PROP_00775,Kochi,Kakkanad (Infopark),Tier 2,Villa,2,3105,142.42,3,3,6,Under Construction,9,5,8,0,1,0,1,0,0,1,1
+PROP_00776,Mumbai,Powai,Tier 1,Villa,3,2066,335.88,3,16,0,Ready to Move,9,4,9,0,0,0,1,1,1,1,0
+PROP_00777,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,3151,139.96,6,20,4,Ready to Move,7,6,5,1,1,1,1,1,1,0,1
+PROP_00778,Hyderabad,Hitec City,Tier 1,Apartment,1,694,59.82,3,21,4,Under Construction,6,5,7,1,1,1,0,1,1,0,0
+PROP_00779,Pune,Wakad,Tier 1,Independent House,4,2403,222.65,7,20,4,Ready to Move,5,9,7,1,1,1,1,0,1,1,0
+PROP_00780,Mumbai,Andheri West,Tier 1,Apartment,2,3146,598.33,0,22,18,Ready to Move,5,6,6,1,1,1,1,1,1,1,0
+PROP_00781,Indore,Super Corridor,Tier 2,Independent House,3,463,17.69,4,4,18,Under Construction,4,7,5,0,1,1,1,1,1,0,1
+PROP_00782,Ahmedabad,SG Highway,Tier 1,Apartment,1,2006,156.28,10,15,10,Under Construction,7,5,8,1,0,1,0,0,1,0,1
+PROP_00783,Bengaluru,HSR Layout,Tier 1,Independent House,2,2363,179.87,8,7,22,Ready to Move,5,9,5,0,0,0,1,1,1,1,1
+PROP_00784,Hyderabad,Gachibowli,Tier 1,Villa,1,1845,168.74,4,10,17,Ready to Move,4,7,9,0,0,1,1,1,1,1,1
+PROP_00785,Kolkata,New Town,Tier 1,Apartment,1,813,64.11,8,17,13,Under Construction,6,7,8,1,0,0,1,0,1,0,0
+PROP_00786,Bengaluru,HSR Layout,Tier 1,Independent House,3,1184,82.44,9,16,1,Resale,5,8,5,0,1,1,1,1,1,1,1
+PROP_00787,Mumbai,Powai,Tier 1,Villa,4,1101,206.01,0,3,5,Resale,4,4,5,0,0,0,1,1,1,1,1
+PROP_00788,Kolkata,New Town,Tier 1,Apartment,3,1094,96.94,13,16,19,Resale,6,6,6,1,1,1,1,1,1,1,1
+PROP_00789,Mumbai,Powai,Tier 1,Penthouse,4,2831,456.65,3,11,22,Ready to Move,8,7,7,1,1,1,1,1,1,0,0
+PROP_00790,Bengaluru,HSR Layout,Tier 1,Apartment,3,2935,234.98,1,7,16,Ready to Move,6,6,6,1,1,0,1,1,0,1,1
+PROP_00791,Mumbai,Powai,Tier 1,Penthouse,3,1055,208.88,1,7,10,Resale,5,9,6,1,0,0,0,0,1,0,1
+PROP_00792,Bengaluru,Whitefield,Tier 1,Independent House,1,1770,121.59,3,8,3,Resale,8,9,6,0,1,1,0,0,1,1,0
+PROP_00793,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,4,1646,117.81,2,8,21,Resale,6,7,8,1,0,0,1,1,1,1,1
+PROP_00794,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,557,20.3,4,6,12,Under Construction,9,6,4,1,1,1,1,1,1,0,0
+PROP_00795,Pune,Hinjewadi,Tier 1,Villa,2,1963,164.09,5,26,12,Ready to Move,8,9,4,1,0,0,1,1,1,1,1
+PROP_00796,Bengaluru,Whitefield,Tier 1,Apartment,4,3007,261.94,1,14,1,Ready to Move,7,6,8,0,1,1,0,1,1,1,0
+PROP_00797,Indore,Super Corridor,Tier 2,Villa,3,1469,65.17,6,27,20,Ready to Move,7,6,5,0,0,1,1,1,0,1,1
+PROP_00798,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,1668,114.27,4,18,16,Resale,5,4,6,1,0,1,0,1,1,1,0
+PROP_00799,Ahmedabad,SG Highway,Tier 1,Penthouse,4,1640,147.17,3,5,21,Under Construction,6,8,9,0,0,1,1,1,1,1,1
+PROP_00800,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2808,259.88,1,35,3,Under Construction,5,8,9,1,0,1,1,1,1,1,0
+PROP_00801,Kolkata,New Town,Tier 1,Apartment,1,1636,138.0,2,6,6,Ready to Move,5,6,5,1,0,0,1,1,1,0,0
+PROP_00802,Mumbai,Andheri West,Tier 1,Villa,3,2907,539.95,7,32,1,Ready to Move,5,8,4,1,0,0,1,1,1,1,1
+PROP_00803,Mumbai,Powai,Tier 1,Independent House,1,2956,614.31,20,34,3,Resale,8,7,8,1,1,0,1,1,0,1,1
+PROP_00804,Kolkata,New Town,Tier 1,Apartment,4,2149,144.22,8,11,7,Resale,6,7,9,1,0,0,1,0,1,1,0
+PROP_00805,Hyderabad,Gachibowli,Tier 1,Apartment,3,1956,160.47,1,25,9,Ready to Move,4,8,9,1,0,1,1,1,1,1,1
+PROP_00806,Kochi,Kakkanad (Infopark),Tier 2,Villa,2,1148,56.7,9,13,16,Ready to Move,4,5,7,0,0,0,1,0,1,1,0
+PROP_00807,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,625,31.02,2,4,15,Resale,7,7,9,0,1,0,1,1,0,0,0
+PROP_00808,Bengaluru,HSR Layout,Tier 1,Apartment,3,1282,95.62,2,28,12,Ready to Move,9,7,4,1,1,0,1,1,1,1,1
+PROP_00809,Hyderabad,Hitec City,Tier 1,Villa,3,2793,187.17,9,34,6,Under Construction,6,9,4,0,0,1,1,1,1,1,0
+PROP_00810,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,638,44.73,3,26,3,Under Construction,7,9,9,0,1,1,1,1,0,0,1
+PROP_00811,Bengaluru,Whitefield,Tier 1,Penthouse,3,2305,215.53,9,13,18,Resale,8,8,7,1,1,1,1,1,1,1,1
+PROP_00812,Lucknow,Gomti Nagar Extension,Tier 2,Villa,1,2588,105.24,20,26,7,Ready to Move,6,8,4,0,1,1,1,1,1,1,1
+PROP_00813,Mumbai,Andheri West,Tier 1,Independent House,2,1363,237.43,6,12,18,Ready to Move,7,8,9,0,1,0,1,1,1,1,1
+PROP_00814,Hyderabad,Hitec City,Tier 1,Apartment,3,1334,97.43,7,17,21,Under Construction,9,5,8,0,1,1,1,1,1,1,1
+PROP_00815,Mumbai,Andheri West,Tier 1,Apartment,2,2769,545.27,25,24,12,Under Construction,8,9,5,1,0,1,1,1,1,0,1
+PROP_00816,Bengaluru,Whitefield,Tier 1,Apartment,3,2423,213.25,2,9,16,Under Construction,8,6,4,0,0,0,1,1,1,1,1
+PROP_00817,Bengaluru,HSR Layout,Tier 1,Apartment,4,570,50.57,3,13,0,Resale,8,7,7,0,0,1,1,1,0,1,1
+PROP_00818,Kolkata,New Town,Tier 1,Villa,4,554,36.11,0,7,20,Under Construction,4,6,9,1,1,0,1,1,1,1,1
+PROP_00819,Lucknow,Gomti Nagar Extension,Tier 2,Penthouse,3,2134,98.66,1,6,8,Under Construction,4,7,7,1,0,0,1,1,0,1,1
+PROP_00820,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Penthouse,3,1011,74.9,7,8,20,Resale,7,4,5,1,1,0,1,0,1,1,0
+PROP_00821,Hyderabad,Gachibowli,Tier 1,Apartment,2,1280,99.03,5,8,22,Ready to Move,5,6,7,0,1,0,0,1,1,0,0
+PROP_00822,Hyderabad,Hitec City,Tier 1,Penthouse,1,2005,134.59,16,30,10,Ready to Move,7,7,8,1,0,0,1,0,1,0,0
+PROP_00823,Bengaluru,HSR Layout,Tier 1,Apartment,3,1140,102.24,12,23,16,Ready to Move,4,7,6,0,0,1,1,1,1,1,1
+PROP_00824,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,2496,117.09,1,13,5,Ready to Move,7,8,8,1,0,0,1,1,0,1,1
+PROP_00825,Indore,Super Corridor,Tier 2,Villa,4,2934,126.33,7,30,7,Ready to Move,8,5,8,1,0,0,1,1,1,0,1
+PROP_00826,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,937,40.59,3,6,12,Ready to Move,4,6,4,1,0,1,1,1,1,1,0
+PROP_00827,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,3151,131.87,14,24,21,Under Construction,7,8,5,1,1,1,1,1,0,1,1
+PROP_00828,Bengaluru,HSR Layout,Tier 1,Villa,3,2869,228.88,19,20,17,Under Construction,8,4,5,0,1,1,1,1,1,0,1
+PROP_00829,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,2900,138.45,9,19,4,Under Construction,8,6,9,1,1,0,0,1,1,1,1
+PROP_00830,Bengaluru,HSR Layout,Tier 1,Villa,3,3132,241.14,7,25,12,Resale,7,7,5,1,1,0,1,1,1,0,1
+PROP_00831,Lucknow,Gomti Nagar Extension,Tier 2,Villa,3,2950,131.69,27,27,18,Resale,8,7,9,1,1,0,1,1,1,0,1
+PROP_00832,Kolkata,New Town,Tier 1,Apartment,3,2597,165.61,12,14,11,Ready to Move,9,6,4,1,1,1,1,1,1,1,0
+PROP_00833,Mumbai,Andheri West,Tier 1,Apartment,2,1595,347.36,5,14,8,Under Construction,5,8,7,1,0,0,1,1,0,0,1
+PROP_00834,Pune,Wakad,Tier 1,Villa,4,2053,182.02,6,17,18,Ready to Move,6,7,5,0,1,1,1,1,1,1,0
+PROP_00835,Kolkata,New Town,Tier 1,Apartment,3,1136,105.43,9,13,22,Ready to Move,6,8,8,1,0,0,1,1,1,1,1
+PROP_00836,Indore,Super Corridor,Tier 2,Independent House,3,1526,78.99,10,23,21,Under Construction,6,5,4,0,1,0,1,1,1,1,0
+PROP_00837,Indore,Super Corridor,Tier 2,Villa,3,2433,93.59,10,15,7,Under Construction,4,4,6,0,0,0,1,1,1,0,1
+PROP_00838,Ahmedabad,SG Highway,Tier 1,Apartment,3,1328,117.23,33,33,7,Resale,7,6,4,0,1,1,1,1,1,0,1
+PROP_00839,Mumbai,Powai,Tier 1,Penthouse,1,1899,314.79,3,27,18,Resale,8,4,8,1,0,1,1,0,1,1,1
+PROP_00840,Ahmedabad,SG Highway,Tier 1,Independent House,3,1116,100.95,24,24,13,Ready to Move,6,8,8,1,1,1,1,1,0,1,1
+PROP_00841,Pune,Wakad,Tier 1,Apartment,3,3039,224.69,25,30,22,Under Construction,5,8,5,1,1,0,0,1,1,0,1
+PROP_00842,Bengaluru,Whitefield,Tier 1,Villa,1,625,42.77,7,22,20,Ready to Move,4,5,5,1,1,1,1,1,1,0,0
+PROP_00843,Indore,Super Corridor,Tier 2,Penthouse,1,2587,101.23,5,30,3,Under Construction,6,6,8,1,0,1,1,1,1,1,1
+PROP_00844,Pune,Hinjewadi,Tier 1,Penthouse,3,2289,207.65,18,31,13,Ready to Move,9,4,5,1,1,1,1,1,1,1,1
+PROP_00845,Hyderabad,Hitec City,Tier 1,Apartment,3,2675,235.35,3,9,4,Ready to Move,8,5,9,0,0,0,1,0,0,0,0
+PROP_00846,Hyderabad,Hitec City,Tier 1,Independent House,2,2714,210.73,3,4,16,Ready to Move,9,7,5,1,1,1,1,1,1,1,1
+PROP_00847,Jaipur,Vaishali Nagar,Tier 2,Villa,2,2789,143.71,2,23,21,Resale,7,9,8,0,0,0,1,1,1,1,0
+PROP_00848,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,1330,51.91,5,16,10,Ready to Move,5,5,8,1,1,0,1,1,0,1,0
+PROP_00849,Mumbai,Powai,Tier 1,Apartment,3,1691,287.49,2,12,20,Under Construction,9,5,8,1,1,0,1,1,0,1,1
+PROP_00850,Indore,Super Corridor,Tier 2,Villa,2,1111,54.75,0,21,10,Under Construction,6,8,7,1,1,0,1,1,1,1,0
+PROP_00851,Hyderabad,Hitec City,Tier 1,Independent House,3,736,50.5,19,24,16,Resale,9,4,5,1,1,0,1,1,1,0,0
+PROP_00852,Mumbai,Andheri West,Tier 1,Apartment,2,1942,352.65,1,6,1,Under Construction,8,7,8,1,1,1,1,1,1,1,1
+PROP_00853,Ahmedabad,SG Highway,Tier 1,Apartment,3,2556,190.35,12,18,1,Ready to Move,4,6,6,0,0,0,1,1,1,1,0
+PROP_00854,Hyderabad,Hitec City,Tier 1,Penthouse,2,2786,252.71,2,8,18,Ready to Move,9,8,9,1,0,0,1,1,1,0,1
+PROP_00855,Hyderabad,Gachibowli,Tier 1,Apartment,1,2811,214.25,31,33,19,Ready to Move,5,7,4,1,1,0,1,1,1,1,1
+PROP_00856,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Independent House,1,921,75.45,6,8,3,Ready to Move,5,4,4,1,0,0,1,1,1,1,0
+PROP_00857,Hyderabad,Gachibowli,Tier 1,Villa,1,1652,133.66,6,30,0,Ready to Move,7,9,9,1,1,0,1,1,0,0,1
+PROP_00858,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,2599,98.92,18,24,10,Ready to Move,5,8,6,1,0,1,1,1,1,1,1
+PROP_00859,Mumbai,Powai,Tier 1,Apartment,4,3133,479.63,11,16,22,Resale,4,4,5,1,0,0,1,1,1,1,0
+PROP_00860,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,560,40.06,2,7,4,Resale,4,7,4,1,0,0,1,0,1,0,1
+PROP_00861,Mumbai,Powai,Tier 1,Apartment,3,2195,472.06,1,4,9,Ready to Move,6,6,6,1,0,1,1,0,1,1,0
+PROP_00862,Bengaluru,HSR Layout,Tier 1,Penthouse,1,519,42.68,18,28,14,Under Construction,7,6,8,0,1,1,1,1,1,0,0
+PROP_00863,Indore,Super Corridor,Tier 2,Apartment,4,885,33.63,0,19,1,Ready to Move,4,8,4,0,0,1,1,1,0,1,1
+PROP_00864,Mumbai,Powai,Tier 1,Apartment,3,1113,204.25,4,5,21,Under Construction,7,4,5,1,1,0,1,0,0,1,1
+PROP_00865,Mumbai,Andheri West,Tier 1,Apartment,2,670,124.79,1,17,11,Under Construction,7,6,5,1,0,1,0,1,0,1,1
+PROP_00866,Ahmedabad,SG Highway,Tier 1,Apartment,3,2194,186.17,6,19,17,Ready to Move,6,5,9,1,1,1,1,1,1,1,1
+PROP_00867,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,1059,39.21,2,7,15,Ready to Move,4,4,6,1,1,0,1,1,1,1,0
+PROP_00868,Indore,Super Corridor,Tier 2,Apartment,3,2364,89.33,20,19,18,Ready to Move,8,8,4,1,1,1,1,1,1,1,1
+PROP_00869,Mumbai,Powai,Tier 1,Apartment,2,1155,180.23,37,35,20,Resale,7,8,8,1,1,1,1,1,1,1,1
+PROP_00870,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,1,2132,194.0,7,9,1,Resale,7,8,6,0,1,1,1,1,1,1,1
+PROP_00871,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,3,2778,253.1,4,31,8,Ready to Move,7,9,5,0,1,1,1,1,0,0,0
+PROP_00872,Hyderabad,Hitec City,Tier 1,Apartment,3,3175,265.2,17,19,7,Under Construction,9,9,8,1,1,1,1,1,0,0,1
+PROP_00873,Bengaluru,Whitefield,Tier 1,Apartment,3,2651,209.06,16,21,2,Resale,6,6,8,0,1,1,1,1,1,1,1
+PROP_00874,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,1981,85.29,0,3,8,Ready to Move,7,7,6,1,0,1,1,1,0,1,0
+PROP_00875,Mumbai,Powai,Tier 1,Penthouse,2,2542,552.0,19,20,13,Ready to Move,7,9,7,1,1,1,1,1,1,1,0
+PROP_00876,Mumbai,Andheri West,Tier 1,Apartment,2,812,170.43,27,30,15,Ready to Move,5,7,6,1,1,1,1,1,1,1,1
+PROP_00877,Jaipur,Vaishali Nagar,Tier 2,Villa,2,1649,76.6,9,29,12,Resale,8,5,9,0,1,0,1,1,0,0,1
+PROP_00878,Mumbai,Andheri West,Tier 1,Penthouse,3,1033,169.93,7,25,13,Under Construction,8,8,5,0,1,1,1,1,1,1,0
+PROP_00879,Bengaluru,HSR Layout,Tier 1,Villa,3,1013,94.51,24,28,14,Ready to Move,7,4,8,1,0,0,1,0,1,1,0
+PROP_00880,Hyderabad,Hitec City,Tier 1,Penthouse,4,1287,109.64,7,9,13,Ready to Move,6,5,5,0,0,1,0,1,1,0,0
+PROP_00881,Pune,Wakad,Tier 1,Independent House,4,1687,132.63,3,19,10,Ready to Move,5,9,6,0,1,1,1,1,1,1,1
+PROP_00882,Mumbai,Powai,Tier 1,Villa,4,2562,415.37,18,19,20,Ready to Move,8,8,9,0,1,1,1,1,1,1,1
+PROP_00883,Mumbai,Andheri West,Tier 1,Independent House,4,1377,293.94,10,14,8,Resale,8,9,8,1,1,1,1,1,1,1,1
+PROP_00884,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,819,60.25,1,19,3,Ready to Move,9,8,9,0,1,1,1,1,1,1,0
+PROP_00885,Mumbai,Andheri West,Tier 1,Villa,1,2393,379.67,4,6,17,Resale,5,7,6,0,1,1,1,1,1,1,1
+PROP_00886,Bengaluru,Whitefield,Tier 1,Villa,1,551,44.95,9,22,18,Under Construction,5,4,6,1,1,1,1,1,1,1,1
+PROP_00887,Kochi,Kakkanad (Infopark),Tier 2,Apartment,1,1788,87.54,9,19,13,Under Construction,7,7,6,1,0,1,1,1,1,0,1
+PROP_00888,Bengaluru,Whitefield,Tier 1,Independent House,3,985,69.96,12,26,4,Ready to Move,7,6,9,0,0,1,1,1,1,0,1
+PROP_00889,Kochi,Kakkanad (Infopark),Tier 2,Independent House,2,1214,45.75,12,12,13,Resale,9,9,7,1,0,0,0,0,0,0,1
+PROP_00890,Mumbai,Powai,Tier 1,Penthouse,2,2511,531.58,16,19,12,Ready to Move,4,8,4,0,1,1,1,1,1,0,0
+PROP_00891,Ahmedabad,SG Highway,Tier 1,Apartment,3,505,46.3,13,20,5,Resale,4,5,9,0,0,0,1,1,1,1,1
+PROP_00892,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2630,96.02,20,25,11,Under Construction,8,5,6,0,1,1,1,1,1,1,1
+PROP_00893,Pune,Wakad,Tier 1,Apartment,1,578,48.57,20,30,9,Resale,6,9,5,1,1,0,1,1,1,1,0
+PROP_00894,Indore,Super Corridor,Tier 2,Apartment,3,2992,143.68,6,8,7,Under Construction,9,9,9,1,1,0,1,1,1,0,0
+PROP_00895,Indore,Super Corridor,Tier 2,Villa,2,501,23.4,0,6,12,Ready to Move,4,6,6,1,0,1,1,1,1,1,1
+PROP_00896,Pune,Wakad,Tier 1,Apartment,3,1389,102.34,0,17,22,Ready to Move,8,4,9,1,1,1,1,0,1,1,0
+PROP_00897,Pune,Wakad,Tier 1,Villa,3,1922,137.61,13,30,11,Ready to Move,7,8,8,0,1,1,0,1,1,1,1
+PROP_00898,Pune,Hinjewadi,Tier 1,Penthouse,3,2890,194.93,32,32,8,Resale,8,8,8,1,1,1,1,1,1,0,1
+PROP_00899,Kolkata,New Town,Tier 1,Penthouse,3,2820,239.26,28,33,4,Under Construction,7,5,4,1,1,1,1,1,1,0,0
+PROP_00900,Hyderabad,Gachibowli,Tier 1,Apartment,4,2730,227.17,15,31,18,Ready to Move,5,4,9,1,1,1,1,1,1,1,1
+PROP_00901,Bengaluru,HSR Layout,Tier 1,Apartment,3,2817,226.66,3,16,3,Ready to Move,5,5,5,1,0,1,1,1,0,1,1
+PROP_00902,Indore,Super Corridor,Tier 2,Apartment,3,2032,76.7,3,8,12,Ready to Move,6,4,9,0,1,1,1,1,0,1,0
+PROP_00903,Indore,Super Corridor,Tier 2,Independent House,2,2174,106.21,4,11,18,Under Construction,9,4,4,0,1,1,1,1,1,0,1
+PROP_00904,Pune,Wakad,Tier 1,Independent House,2,2859,214.78,0,7,13,Resale,7,6,4,0,1,1,1,1,1,1,1
+PROP_00905,Pune,Hinjewadi,Tier 1,Villa,2,456,40.12,19,23,8,Resale,4,8,8,0,1,1,1,1,1,0,1
+PROP_00906,Jaipur,Vaishali Nagar,Tier 2,Villa,2,2040,93.63,3,3,17,Ready to Move,7,8,9,1,1,1,1,1,1,0,1
+PROP_00907,Mumbai,Powai,Tier 1,Apartment,3,2311,502.8,1,4,0,Ready to Move,5,7,9,1,0,1,1,1,1,0,0
+PROP_00908,Mumbai,Powai,Tier 1,Independent House,3,473,98.29,2,26,11,Under Construction,8,6,4,1,1,1,1,0,1,1,1
+PROP_00909,Mumbai,Andheri West,Tier 1,Villa,3,3091,595.64,22,20,12,Ready to Move,7,6,5,0,1,1,1,0,0,1,1
+PROP_00910,Pune,Wakad,Tier 1,Apartment,3,1950,139.9,8,11,21,Under Construction,6,7,4,1,1,0,1,0,1,1,1
+PROP_00911,Bengaluru,Whitefield,Tier 1,Apartment,3,653,42.87,22,28,13,Under Construction,4,7,5,0,0,1,1,1,0,1,0
+PROP_00912,Pune,Wakad,Tier 1,Penthouse,1,689,45.76,8,14,14,Ready to Move,4,5,7,0,1,1,1,1,0,0,1
+PROP_00913,Bengaluru,HSR Layout,Tier 1,Apartment,1,925,74.91,3,3,21,Ready to Move,6,5,7,0,1,1,1,1,1,0,1
+PROP_00914,Hyderabad,Gachibowli,Tier 1,Apartment,1,584,45.33,21,30,0,Resale,6,9,9,0,1,1,1,1,1,1,0
+PROP_00915,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,3,2879,129.64,13,16,4,Under Construction,6,7,4,1,1,1,1,1,0,1,1
+PROP_00916,Mumbai,Powai,Tier 1,Villa,2,739,114.96,11,24,21,Resale,5,9,5,0,1,0,1,1,1,0,1
+PROP_00917,Pune,Hinjewadi,Tier 1,Villa,2,1070,81.72,2,6,13,Ready to Move,9,7,7,0,1,1,1,1,1,1,1
+PROP_00918,Hyderabad,Hitec City,Tier 1,Villa,2,1383,104.04,4,22,1,Under Construction,6,4,7,1,1,1,1,1,1,0,1
+PROP_00919,Hyderabad,Hitec City,Tier 1,Apartment,2,2762,191.22,2,3,3,Ready to Move,7,9,9,1,0,1,1,1,1,1,1
+PROP_00920,Jaipur,Vaishali Nagar,Tier 2,Apartment,1,2911,152.16,6,4,22,Resale,9,7,4,1,0,1,1,1,1,1,1
+PROP_00921,Pune,Wakad,Tier 1,Apartment,3,790,66.54,1,3,14,Under Construction,8,6,4,0,1,1,1,0,1,1,1
+PROP_00922,Hyderabad,Hitec City,Tier 1,Apartment,2,3131,264.07,19,19,1,Resale,6,4,7,0,1,0,1,1,0,1,1
+PROP_00923,Ahmedabad,SG Highway,Tier 1,Apartment,3,564,51.41,6,7,21,Ready to Move,6,9,4,0,1,0,1,0,0,0,0
+PROP_00924,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Villa,1,744,59.54,5,9,19,Ready to Move,8,6,6,1,0,1,1,0,1,0,0
+PROP_00925,Indore,Super Corridor,Tier 2,Villa,3,2815,101.11,3,4,1,Ready to Move,8,7,9,1,0,1,1,1,1,1,0
+PROP_00926,Hyderabad,Gachibowli,Tier 1,Apartment,3,1243,100.51,11,21,0,Ready to Move,7,7,7,1,1,0,1,1,1,1,0
+PROP_00927,Hyderabad,Gachibowli,Tier 1,Independent House,3,1732,123.67,3,28,17,Under Construction,5,8,4,1,1,1,1,1,1,1,0
+PROP_00928,Bengaluru,Whitefield,Tier 1,Apartment,3,580,46.92,1,29,7,Ready to Move,9,8,8,1,1,0,1,1,0,1,0
+PROP_00929,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,3,476,34.37,14,24,18,Resale,6,8,5,0,1,1,1,1,0,1,0
+PROP_00930,Hyderabad,Hitec City,Tier 1,Villa,4,484,43.7,5,12,5,Ready to Move,6,7,7,1,1,0,1,0,1,1,0
+PROP_00931,Bengaluru,Whitefield,Tier 1,Apartment,2,1224,93.87,5,13,11,Ready to Move,8,8,7,1,1,1,1,1,1,0,1
+PROP_00932,Mumbai,Powai,Tier 1,Apartment,3,2860,618.94,30,32,22,Ready to Move,7,8,8,0,0,1,1,1,1,1,1
+PROP_00933,Hyderabad,Gachibowli,Tier 1,Independent House,1,2692,250.69,9,12,5,Under Construction,6,6,4,1,1,0,1,1,0,0,0
+PROP_00934,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,972,80.2,4,17,8,Ready to Move,6,6,7,1,1,1,1,1,1,0,1
+PROP_00935,Ahmedabad,SG Highway,Tier 1,Apartment,3,2917,248.14,0,3,1,Ready to Move,4,6,9,1,0,0,1,1,1,0,1
+PROP_00936,Pune,Hinjewadi,Tier 1,Apartment,2,1244,80.85,6,11,1,Resale,6,7,5,0,1,0,1,1,1,1,1
+PROP_00937,Jaipur,Vaishali Nagar,Tier 2,Penthouse,3,843,38.75,2,17,0,Ready to Move,8,4,7,1,1,1,0,1,1,0,1
+PROP_00938,Hyderabad,Gachibowli,Tier 1,Independent House,1,569,40.77,12,20,5,Ready to Move,8,4,5,1,1,0,0,1,1,1,1
+PROP_00939,Jaipur,Vaishali Nagar,Tier 2,Villa,3,616,25.96,2,28,16,Resale,6,6,4,1,0,1,1,1,1,1,1
+PROP_00940,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Penthouse,3,1222,104.2,9,29,19,Resale,5,7,5,0,0,0,1,0,1,0,0
+PROP_00941,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,1012,51.76,17,24,10,Under Construction,9,5,4,1,1,1,1,1,1,1,1
+PROP_00942,Mumbai,Andheri West,Tier 1,Apartment,3,3000,659.95,11,12,22,Ready to Move,9,8,8,1,0,0,1,1,0,1,1
+PROP_00943,Lucknow,Gomti Nagar Extension,Tier 2,Apartment,2,1947,91.32,7,26,8,Ready to Move,4,9,5,0,1,1,1,1,0,1,0
+PROP_00944,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,4,2049,104.69,14,20,18,Under Construction,9,9,6,1,0,0,1,1,1,1,1
+PROP_00945,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,710,30.49,5,20,9,Under Construction,4,8,9,1,1,1,1,1,1,0,0
+PROP_00946,Jaipur,Vaishali Nagar,Tier 2,Apartment,3,1034,42.53,12,26,14,Ready to Move,4,5,4,1,1,0,1,1,1,0,1
+PROP_00947,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Independent House,1,3184,294.07,5,15,3,Under Construction,6,6,5,1,0,1,1,1,1,1,1
+PROP_00948,Bengaluru,Whitefield,Tier 1,Apartment,1,2637,219.18,8,10,5,Ready to Move,4,4,6,1,1,1,1,1,1,1,1
+PROP_00949,Hyderabad,Hitec City,Tier 1,Apartment,3,2520,220.94,15,19,3,Resale,5,9,5,1,1,1,1,1,1,1,0
+PROP_00950,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,2305,87.4,10,30,6,Ready to Move,7,4,4,0,0,1,1,1,1,0,1
+PROP_00951,Mumbai,Powai,Tier 1,Independent House,1,1955,344.93,2,5,21,Ready to Move,9,5,4,1,0,1,1,0,0,1,1
+PROP_00952,Mumbai,Andheri West,Tier 1,Apartment,4,1341,278.85,2,8,6,Ready to Move,5,7,8,1,1,1,1,1,0,1,1
+PROP_00953,Indore,Super Corridor,Tier 2,Penthouse,4,1458,60.48,11,26,21,Ready to Move,5,5,5,0,1,1,1,1,1,1,0
+PROP_00954,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,2,2390,201.92,7,17,7,Resale,7,4,8,1,0,1,1,1,1,1,1
+PROP_00955,Indore,Super Corridor,Tier 2,Independent House,4,944,45.83,3,13,1,Ready to Move,4,7,4,0,0,1,1,1,1,1,1
+PROP_00956,Hyderabad,Hitec City,Tier 1,Penthouse,3,817,75.7,27,34,8,Under Construction,7,7,5,1,1,0,1,1,1,1,0
+PROP_00957,Hyderabad,Hitec City,Tier 1,Apartment,3,2532,162.7,4,9,4,Under Construction,8,9,9,1,1,1,1,1,0,1,1
+PROP_00958,Jaipur,Vaishali Nagar,Tier 2,Apartment,2,2981,156.15,20,24,12,Ready to Move,9,9,7,1,0,1,1,0,1,1,0
+PROP_00959,Pune,Hinjewadi,Tier 1,Apartment,1,2438,204.35,9,17,20,Under Construction,5,4,9,0,1,0,1,1,1,1,1
+PROP_00960,Indore,Super Corridor,Tier 2,Apartment,3,1946,82.1,15,23,11,Under Construction,6,8,4,1,1,1,1,1,1,0,1
+PROP_00961,Kolkata,New Town,Tier 1,Villa,2,2204,158.46,6,8,6,Under Construction,7,8,7,1,0,1,0,0,1,1,0
+PROP_00962,Bengaluru,Whitefield,Tier 1,Apartment,1,3000,269.27,5,34,9,Ready to Move,5,8,5,1,1,1,1,1,1,1,1
+PROP_00963,Indore,Super Corridor,Tier 2,Apartment,2,753,28.97,14,34,19,Ready to Move,5,7,9,1,1,1,1,1,1,1,1
+PROP_00964,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,1421,70.8,9,16,3,Ready to Move,9,7,6,1,0,1,1,1,1,0,0
+PROP_00965,Hyderabad,Hitec City,Tier 1,Independent House,1,2850,187.61,3,4,8,Under Construction,8,9,7,1,0,0,0,0,1,1,0
+PROP_00966,Kochi,Kakkanad (Infopark),Tier 2,Apartment,3,2092,85.15,19,31,13,Ready to Move,7,6,7,1,0,1,0,1,1,1,1
+PROP_00967,Bengaluru,HSR Layout,Tier 1,Independent House,3,2031,188.89,30,30,14,Ready to Move,4,9,8,1,0,1,1,1,1,1,1
+PROP_00968,Hyderabad,Hitec City,Tier 1,Apartment,2,1882,126.19,10,13,13,Under Construction,5,4,6,1,1,1,1,1,1,1,1
+PROP_00969,Kochi,Kakkanad (Infopark),Tier 2,Penthouse,3,2230,88.9,9,24,7,Under Construction,9,6,4,1,0,0,1,1,1,1,1
+PROP_00970,Pune,Wakad,Tier 1,Independent House,2,2818,217.77,8,17,8,Ready to Move,8,9,9,1,0,0,1,1,0,1,1
+PROP_00971,Hyderabad,Gachibowli,Tier 1,Apartment,3,3190,281.6,5,20,0,Resale,5,4,9,0,1,1,1,1,1,1,0
+PROP_00972,Kochi,Kakkanad (Infopark),Tier 2,Apartment,2,1829,79.82,2,11,7,Ready to Move,4,6,6,1,1,1,0,1,1,0,0
+PROP_00973,Ahmedabad,SG Highway,Tier 1,Apartment,1,1008,87.81,14,16,12,Under Construction,8,9,8,1,0,0,1,1,0,1,1
+PROP_00974,Mumbai,Powai,Tier 1,Villa,3,2946,497.06,5,7,9,Ready to Move,6,9,6,1,0,0,1,1,0,0,1
+PROP_00975,Hyderabad,Gachibowli,Tier 1,Apartment,4,2118,145.03,3,11,9,Resale,6,5,6,1,1,0,1,1,1,1,1
+PROP_00976,Jaipur,Vaishali Nagar,Tier 2,Apartment,4,2662,132.21,5,5,22,Ready to Move,8,6,7,1,1,0,1,0,1,1,1
+PROP_00977,Mumbai,Powai,Tier 1,Apartment,3,1529,254.67,2,5,4,Ready to Move,8,6,4,0,1,1,1,1,0,1,1
+PROP_00978,Hyderabad,Hitec City,Tier 1,Apartment,2,1273,86.25,3,12,4,Ready to Move,5,6,7,1,0,0,0,0,0,1,1
+PROP_00979,Mumbai,Andheri West,Tier 1,Independent House,3,2202,461.1,0,26,13,Ready to Move,7,8,8,1,1,0,1,1,1,0,0
+PROP_00980,Hyderabad,Hitec City,Tier 1,Apartment,2,2832,227.79,5,19,0,Ready to Move,6,9,5,0,1,1,1,1,1,1,1
+PROP_00981,Bengaluru,Whitefield,Tier 1,Apartment,1,2310,197.0,2,13,1,Under Construction,4,7,9,1,1,1,1,1,1,1,1
+PROP_00982,Indore,Super Corridor,Tier 2,Independent House,2,1516,64.66,0,14,11,Ready to Move,8,7,5,1,1,0,1,1,0,1,0
+PROP_00983,Kolkata,New Town,Tier 1,Penthouse,3,2064,178.53,16,21,4,Ready to Move,7,5,9,0,1,1,1,0,0,1,0
+PROP_00984,Lucknow,Gomti Nagar Extension,Tier 2,Independent House,3,621,24.63,17,25,19,Ready to Move,9,4,7,1,1,1,1,1,1,1,1
+PROP_00985,Pune,Wakad,Tier 1,Independent House,3,1903,131.49,3,23,3,Ready to Move,5,5,7,1,1,0,1,1,0,1,0
+PROP_00986,Mumbai,Andheri West,Tier 1,Villa,3,1171,210.94,8,23,20,Resale,5,5,9,1,1,1,1,1,1,1,1
+PROP_00987,Chennai,OMR (Old Mahabalipuram Rd),Tier 1,Apartment,3,2574,202.63,14,24,5,Ready to Move,6,8,9,1,1,0,1,1,0,1,1
+PROP_00988,Hyderabad,Hitec City,Tier 1,Independent House,3,2199,182.05,10,16,7,Under Construction,5,7,7,1,1,0,1,1,1,1,0
+PROP_00989,Mumbai,Powai,Tier 1,Apartment,2,2926,475.87,5,26,18,Under Construction,4,4,6,1,1,1,1,1,1,1,1
+PROP_00990,Jaipur,Vaishali Nagar,Tier 2,Villa,2,2235,88.96,2,12,9,Ready to Move,4,7,7,0,1,1,0,1,1,0,1
+PROP_00991,Pune,Hinjewadi,Tier 1,Penthouse,3,2654,229.73,3,5,5,Ready to Move,9,4,5,1,0,1,1,1,1,1,1
+PROP_00992,Ahmedabad,SG Highway,Tier 1,Apartment,3,1079,96.94,12,29,0,Ready to Move,8,4,8,1,1,0,1,1,0,1,0
+PROP_00993,Jaipur,Vaishali Nagar,Tier 2,Independent House,2,2784,142.8,33,34,7,Under Construction,8,6,9,1,1,0,1,1,1,0,1
+PROP_00994,Delhi NCR,Gurgaon Golf Course Ext,Tier 1,Apartment,2,1663,138.87,6,10,5,Ready to Move,5,5,4,1,0,0,1,1,1,0,1
+PROP_00995,Mumbai,Andheri West,Tier 1,Villa,1,2379,511.76,26,31,19,Under Construction,8,9,8,0,0,1,1,1,0,1,1
+PROP_00996,Bengaluru,Whitefield,Tier 1,Penthouse,3,1138,96.66,3,6,5,Under Construction,5,8,7,0,0,0,0,1,1,1,1
+PROP_00997,Bengaluru,Whitefield,Tier 1,Apartment,2,2715,229.21,19,29,21,Ready to Move,4,7,7,1,1,1,1,1,1,0,1
+PROP_00998,Hyderabad,Gachibowli,Tier 1,Apartment,4,2504,205.41,6,27,15,Resale,9,4,8,1,0,1,1,1,1,1,1
+PROP_00999,Mumbai,Andheri West,Tier 1,Apartment,2,2227,429.26,1,9,4,Ready to Move,5,5,9,1,0,1,1,1,1,0,1
+PROP_01000,Mumbai,Powai,Tier 1,Independent House,3,2403,423.95,3,4,12,Ready to Move,9,4,7,1,1,1,1,1,1,1,1
